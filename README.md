@@ -13,3 +13,9 @@
 
 ### ML Method
 - Supervised Learning
+
+### Cleaning options
+- Status (Remove anything not "Terminated"
+- Country (Remove anything not "United States"
+- Drop "Open FDA", "Event", "Product Type", "Address 2"
+- Keep "Status, City, State, Classification, Recalling Firm, Address 1, Postal Code, Recall Initiation Date, Center Classification Date, Termination Date 
