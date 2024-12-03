@@ -1,10 +1,8 @@
 # Project_4
 
 ### Questions we are wanting to answer
-- What company is most likely to have a new recall 
-- What classification would the next recall be 
-- Which state is more than likely to have the next recall 
-- How long will the next class 1 2 3 recall take to close out
+
+- Based on the classification of the Recall, the selected model should predict the duration between the Center Classification Date vs Termination Date; basically predicting how long a recall is outstanding
 
 ### Authors
 - Manuel Galvan
