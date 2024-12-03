@@ -1,9 +1,21 @@
 # Project_4
 
-## What company is most likely to have a new recall 
+### Questions we are wanting to answer
 
-## What classification would the next recall be 
+- Based on the classification of the Recall, the selected model should predict the duration between the Center Classification Date vs Termination Date; basically predicting how long a recall is outstanding
 
-## Which state is more than likely to have the next recall 
+### Authors
+- Manuel Galvan
+- Natalia Galvan
+- Joe Almendarez
+- Teddy Song
+- Lynn Foster
 
-## How long will the next class 1 2 3 recall take to close out
+### ML Method
+- Supervised Learning
+
+### Cleaning options
+- Status (Remove anything not "Terminated"
+- Country (Remove anything not "United States"
+- Drop "Open FDA", "Event", "Product Type", "Address 2"
+- Keep "Status, City, State, Classification, Recalling Firm, Address 1, Postal Code, Recall Initiation Date, Center Classification Date, Termination Date 
