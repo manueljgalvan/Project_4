@@ -1,0 +1,849 @@
+_id,Address,Center Classification Date,City,Classification,Country,Postal Code,Recall Firm,Recall Initiation Date,State,Status,Termination Date,Days To Classify
+67579303b573cb028daaa71c,2610 Homestead Pl,2020-04-13,Rancho Dominguez,Class III,United States,90220-5610,"Organic By Nature, Inc.",2020-02-24,CA,Terminated,2021-02-02,49
+67579303b573cb028daaa71d,47 Bridgewater St # 57,2020-04-24,Brooklyn,Class III,United States,11222-3820,Rong Shing Trading NY Inc,2020-04-01,NY,Terminated,2021-03-18,23
+67579303b573cb028daaa71e,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaa71f,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaa723,1700 E Stroop Rd,2023-08-02,Dayton,Class II,United States,45429-5040,Cassanos Inc,2023-07-18,OH,Terminated,2023-09-27,15
+67579303b573cb028daaa724,5377 Highway 306,2020-04-17,Coldwater,Class II,United States,38618-5119,Southern Sisters Gourmet,2020-01-28,MS,Terminated,2021-02-16,80
+67579303b573cb028daaa725,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa726,8441 Dorsey Run Rd Unit B,2024-01-02,Jessup,Class I,United States,20794-9359,"TGD Cuts, LLC",2023-11-29,MD,Terminated,2024-09-25,34
+67579303b573cb028daaa727,4 New Century Pkwy,2024-06-06,New Century,Class I,United States,66031-1144,Danisco USA Inc.,2024-05-03,KS,Terminated,2024-09-04,34
+67579303b573cb028daaa728,1251 Argentine Blvd,2022-06-03,Kansas City,Class I,United States,66105-1508,Liberty Fruit Co Inc DBA Carol's Cuts,2022-05-06,KS,Terminated,2022-10-27,28
+67579303b573cb028daaa729,705 Meadow St,2020-02-04,Chicopee,Class I,United States,01013-4820,Rachael's Food Corporation,2019-12-31,MA,Terminated,2020-03-25,35
+67579303b573cb028daaa72a,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa72b,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa72c,7202 W Pershing Ct,2022-01-02,Visalia,Class II,United States,93291-7909,Livia Global,2021-12-01,CA,Terminated,2022-04-29,32
+67579303b573cb028daaa72e,4955 E McKellips Rd,2022-03-28,Mesa,Class I,United States,85215-2531,"Lehi Valley Trading Co, Inc",2022-02-11,AZ,Terminated,2022-05-19,45
+67579303b573cb028daaa72f,2901 76th St Se,2023-05-06,Caledonia,Class I,United States,49316-8399,Caledonia Facility of Revolution Farms LLC,2023-04-05,MI,Terminated,2023-05-09,31
+67579303b573cb028daaa730,32816 Manor Park,2021-03-30,Garden City,Class I,United States,48135-1545,KAREEM MART INC,2021-03-08,MI,Terminated,2021-09-01,22
+67579303b573cb028daaa731,40 W 25th St,2021-11-18,New York,Class I,United States,10010-2707,HELLOFRESH US,2021-10-22,NY,Terminated,2022-09-01,27
+67579303b573cb028daaa732,3820 Lakeside Ave E,2024-02-05,Cleveland,Class II,United States,44114-3848,Greco Sidari,2024-01-11,OH,Terminated,2024-09-05,25
+67579303b573cb028daaa733,141 Ethel Rd W,2021-05-28,Piscataway,Class II,United States,08854-5928,Clio LLC,2021-05-15,NJ,Terminated,2022-04-14,13
+67579303b573cb028daaa734,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa736,1051 Pacific Ave,2023-11-08,Oxnard,Class I,United States,93030-7254,"Gills Onions, LLC",2023-10-23,CA,Terminated,2024-09-20,16
+67579303b573cb028daaa737,12254 Sw 131st Ave Unit 2,2023-05-11,Miami,Class II,United States,33186-6482,Borris Brothers,2023-04-13,FL,Terminated,2023-06-22,28
+67579303b573cb028daaa738,4140 W Fullerton Ave,2021-05-18,Chicago,Class II,United States,60639-2106,Newly Weds Foods Inc,2021-04-27,IL,Terminated,2022-02-09,21
+67579303b573cb028daaa739,4140 W Fullerton Ave,2021-05-18,Chicago,Class II,United States,60639-2106,Newly Weds Foods Inc,2021-04-27,IL,Terminated,2022-02-09,21
+67579303b573cb028daaa73a,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa73c,2330 Ponce De Leon Blvd,2024-05-15,Coral Gables,Class II,United States,33134-5417,"CN Frozen Foods, INC",2024-04-27,FL,Terminated,2024-06-24,18
+67579303b573cb028daaa73e,705 Vesta St,2021-10-20,Inglewood,Class II,United States,90302-3316,Chocolate and the Chip,2021-10-05,CA,Terminated,2021-11-30,15
+67579303b573cb028daaa73f,825 Franklin Ct Se Ste B,2023-01-13,Marietta,Class II,United States,30067-8944,Something South African LLC,2022-12-12,GA,Terminated,2023-04-24,32
+67579303b573cb028daaa740,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaa742,7970 Summerlin Lakes Dr Ste 101,2024-05-09,Fort Myers,Class I,United States,33907-1855,Belgian Yummies,2024-03-20,FL,Terminated,2024-07-16,50
+67579303b573cb028daaa743,N9083 County Road Ef,2021-11-30,Friesland,Class I,United States,53935,"Alsum Farms & Produce, Inc.",2021-11-02,WI,Terminated,2022-01-13,28
+67579303b573cb028daaa745,11324 Mount Vernon Rd,2021-05-22,Utica,Class I,United States,43080-7703,Velvet Ice Cream Company,2021-04-23,OH,Terminated,2021-07-20,29
+67579303b573cb028daaa746,1320 San Francisco Ave Ne,2020-08-26,Olympia,Class II,United States,98506-4138,San Francisco Street Bakery Inc.,2020-07-23,WA,Terminated,2020-08-27,34
+67579303b573cb028daaa747,620 Main St N,2021-06-08,Navarre,Class II,United States,44662-8556,RC Industries Inc.,2021-05-11,OH,Terminated,2021-11-08,28
+67579303b573cb028daaa748,267 Kappa Dr,2020-09-02,Pittsburgh,Class I,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa749,15407 McGinty Rd W,2023-05-01,Wayzata,Class II,United States,55391-2365,"Cargill, Inc         Corporate Headquarters",2023-03-30,MN,Terminated,2023-06-08,32
+67579303b573cb028daaa74a,607 Nw Everett Mall Way Suite 9a&B,2022-09-23,Everett,Class III,United States,98028,Alida's Bakery LLC,2022-08-16,WA,Terminated,2022-10-06,38
+67579303b573cb028daaa74b,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa74c,10 Fairway Ct,2021-12-06,Northvale,Class I,United States,07647-2401,The Fillo Factory Inc.,2021-11-15,NJ,Terminated,2022-02-11,21
+67579303b573cb028daaa74d,2928 Walden Ave,2022-04-07,Depew,Class I,United States,14043-2603,"Fruit Fresh Up, Inc.",2022-03-18,NY,Terminated,2023-08-21,20
+67579303b573cb028daaa74f,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa750,200 E Randolph St,2021-12-17,Chicago,Class II,United States,60601-6436,KRAFT HEINZ FOODS COMPANY,2021-11-11,IL,Terminated,2024-09-06,36
+67579303b573cb028daaa751,2583 Milford Rd,2022-05-27,E Stroudsburg,Class II,United States,18301-9719,DYMSKI PIEROGI LLC,2022-05-06,PA,Terminated,2022-10-25,21
+67579303b573cb028daaa752,2600 Aurora Rd Ste Q,2022-01-06,Melbourne,Class II,United States,32935-2884,"Joy's International Foods, Incorporated",2021-12-13,FL,Terminated,2022-03-16,24
+67579303b573cb028daaa753,18100 Andover Park W,2022-04-08,Tukwila,Class II,United States,98188-4703,Continental Mills (Corporate Office),2022-03-10,WA,Terminated,2023-05-15,29
+67579303b573cb028daaa754,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa755,2929 Walker Ave Nw,2023-05-09,Grand Rapids,Class I,United States,49544-6402,Meijer Inc,2023-04-05,MI,Terminated,2023-05-12,34
+67579303b573cb028daaa756,650 N Armstrong Pl,2020-03-25,Boise,Class II,United States,83704-0825,Winco Foods Llc,2020-03-13,ID,Terminated,2020-05-20,12
+67579303b573cb028daaa757,1486 Kleppe Ln,2021-09-01,Sparks,Class I,United States,89431-6428,Able Groupe Inc,2021-08-08,NV,Terminated,2021-09-08,24
+67579303b573cb028daaa758,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa759,2715 W 15th St,2021-06-24,Brooklyn,Class I,United States,11224-2705,Banner Smoked Fish Inc.,2021-06-01,NY,Terminated,2021-11-16,23
+67579303b573cb028daaa75b,30 Vandam St Fl 3,2024-06-27,New York,Class II,United States,10013-1253,FEEL GOOD FOODS INC,2024-04-10,NY,Terminated,2024-07-01,78
+67579303b573cb028daaa75c,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa75e,15407 McGinty Rd W,2023-05-01,Wayzata,Class II,United States,55391-2365,"Cargill, Inc         Corporate Headquarters",2023-03-30,MN,Terminated,2023-06-08,32
+67579303b573cb028daaa75f,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaa760,8211 Ne Brazee St,2020-02-21,Portland,Class II,United States,97220-5320,"Lanvin French Bakery, LLC",2020-02-12,OR,Terminated,2020-06-05,9
+67579303b573cb028daaa761,2583 Milford Rd,2022-05-27,E Stroudsburg,Class II,United States,18301-9719,DYMSKI PIEROGI LLC,2022-05-06,PA,Terminated,2022-10-25,21
+67579303b573cb028daaa762,180 State St,2021-04-20,Brockport,Class II,United States,14420-2051,Bonduelle USA Inc.,2021-03-16,NY,Terminated,2022-05-23,35
+67579303b573cb028daaa763,14583 S Ave,2021-11-04,Woodward,Class II,United States,50276-6043,Picket Fence Creamery L.L.C.,2021-09-15,IA,Terminated,2021-11-18,50
+67579303b573cb028daaa764,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaa765,10813 Castolon Dr,2023-01-12,Dallas,Class II,United States,75228-2515,Hippos and Hashbrowns,2022-11-21,TX,Terminated,2024-04-30,52
+67579303b573cb028daaa766,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa767,19039 62nd Ave S,2024-10-16,Kent,Class II,United States,98032,Lemonland Food Corp,2024-09-11,WA,Terminated,2024-11-26,35
+67579303b573cb028daaa768,2220 Natures Path Way,2020-08-20,Blaine,Class II,United States,98230-9158,"Natures Path Foods USA, Inc.",2020-08-07,WA,Terminated,2020-12-07,13
+67579303b573cb028daaa76a,1320 San Francisco Ave Ne,2020-08-26,Olympia,Class II,United States,98506-4138,San Francisco Street Bakery Inc.,2020-07-23,WA,Terminated,2020-08-27,34
+67579303b573cb028daaa76b,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa76c,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa76d,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa76e,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa76f,3465 N Kimball Ave,2021-08-10,Chicago,Class II,United States,60618-5516,"5000 Years Foods, Inc.",2021-07-06,IL,Terminated,2022-02-01,35
+67579303b573cb028daaa770,7591 Montevideo Rd,2023-11-29,Jessup,Class II,United States,20794-9323,The Coastal Companies DBA Hearn Kirkwood,2023-11-03,MD,Terminated,2024-09-25,26
+67579303b573cb028daaa771,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa772,2700 E 28th St,2024-08-13,Minneapolis,Class I,United States,55406-2990,"Metro Produce Distributors, Inc.",2024-07-31,MN,Terminated,2024-11-26,13
+67579303b573cb028daaa774,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa775,901 Gilman St,2024-07-17,Berkeley,Class II,United States,94710-1466,STARTER BAKERY,2024-06-21,CA,Terminated,2024-09-26,26
+67579303b573cb028daaa777,920 Avenue R Ste 100,2020-11-05,Grand Prairie,Class I,United States,75050-1528,Country Fresh Inc.,2020-10-01,TX,Terminated,2020-12-16,35
+67579303b573cb028daaa779,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaa77a,240 Commercial St,2022-09-08,Malden,Class II,United States,02148-6780,"Piantedosi Baking Co., Inc.",2022-08-17,MA,Terminated,2022-12-29,22
+67579303b573cb028daaa77b,6080 Mcdonough Dr Ste A/B/C/D/F/G,2022-01-11,Norcross,Class I,United States,30093,NutraCap Labs LLC,2021-11-09,GA,Terminated,2024-05-21,63
+67579303b573cb028daaa77c,59 Paulison Ave Apt 13,2022-08-02,Passaic,Class I,United States,07055-4820,MKS Enterprise LLC,2022-07-18,NJ,Terminated,2023-06-15,15
+67579303b573cb028daaa77d,16690 Swingley Ridge Rd,2020-01-31,Chesterfield,Class I,United States,63017-0758,"Dierbergs Markets, Inc Corporate Office",2019-12-24,MO,Terminated,2020-02-11,38
+67579303b573cb028daaa77e,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaa77f,25 Myers Rd,2020-01-31,Wallkill,Class I,United States,12589-3516,CATSMO LLC,2019-12-10,NY,Terminated,2020-03-25,52
+67579303b573cb028daaa781,747 W 4170 S,2022-09-01,Murray,Class II,United States,84123-1364,"Clinical Innovations, LLC",2022-07-19,UT,Terminated,2023-03-20,44
+67579303b573cb028daaa782,733 Bread And Milk St,2024-06-03,Coventry,Class II,United States,06238-1014,Charles Boggini Company Llc,2024-03-29,CT,Terminated,2024-07-03,66
+67579303b573cb028daaa783,32816 Manor Park,2021-03-16,Garden City,Class I,United States,48135-1545,KAREEM MART INC,2021-02-25,MI,Terminated,2021-09-01,19
+67579303b573cb028daaa784,2571 N Main St,2023-10-18,Hubbard,Class II,United States,44425-3245,Katies Korner Inc.,2023-09-14,OH,Terminated,2023-10-18,34
+67579303b573cb028daaa785,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaa786,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa787,1812 N Moore St,2020-01-09,Arlington,Class II,United States,22209-1815,Gerber Products Company dba Nestle Infant Nutrition,2019-10-30,VA,Terminated,2020-06-18,71
+67579303b573cb028daaa78a,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa78b,5941 S Central Ave,2023-03-03,Los Angeles,Class II,United States,90001-1128,Tampico Spice Company Inc,2023-02-02,CA,Terminated,2023-08-15,29
+67579303b573cb028daaa78c,1 Robert Rich Way,2021-01-05,Buffalo,Class II,United States,14213-1701,Rich Products Corp,2020-12-22,NY,Terminated,2021-04-30,14
+67579303b573cb028daaa78d,9000 Plymouth Ave N,2022-06-08,Golden Valley,Class I,United States,55427-3870,General Mills James Ford Bell Technical Center,2022-05-22,MN,Terminated,2023-02-17,17
+67579303b573cb028daaa78e,708 S 500 E,2020-07-28,American Fork,Class II,United States,84003-2587,BUILT BRANDS LLC,2020-06-24,UT,Terminated,2022-03-09,34
+67579303b573cb028daaa78f,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa790,705 Vesta St,2021-10-20,Inglewood,Class II,United States,90302-3316,Chocolate and the Chip,2021-10-05,CA,Terminated,2021-11-30,15
+67579303b573cb028daaa791,3005 County Line Rd,2024-02-22,Cullen,Class II,United States,23934-2041,"Country Corner Dairy, LLC",2024-02-01,VA,Terminated,2024-03-25,21
+67579303b573cb028daaa792,26661 Bunert Rd,2020-02-06,Warren,Class I,United States,48089-3650,"Lipari Foods Operating Company, LLC.",2020-01-06,MI,Terminated,2020-08-18,31
+67579303b573cb028daaa793,796 29 3/4 Ave,2021-02-17,Barronett,Class II,United States,54813-9470,Barron County Organics,2021-02-03,WI,Terminated,2021-06-09,14
+67579303b573cb028daaa795,4322 Moreland Ave Bldg B,2023-12-19,Conley,Class I,United States,30288-2142,Renaissance Food Group,2023-11-24,GA,Terminated,2024-06-11,25
+67579303b573cb028daaa797,6085 Claude Way,2022-09-22,Inver Grove Heights,Class II,United States,55076-4432,"Russ Davis Wholesale, LLC",2022-07-29,MN,Terminated,2022-09-23,55
+67579303b573cb028daaa798,27853 Chardon Rd,2022-04-27,Willoughby Hills,Class I,United States,44092-2703,Produce Packaging Inc,2022-04-14,OH,Terminated,2022-05-04,13
+67579303b573cb028daaa799,1320 S 19th St,2022-02-02,Nebraska City,Class II,United States,68410-2666,"WayFare Health Foods, LLC.",2022-01-06,NE,Terminated,2022-02-17,27
+67579303b573cb028daaa79a,6737 E Coralite St,2021-07-06,Long Beach,Class I,United States,90808-4121,Designed by Nature LLC,2021-06-14,CA,Terminated,2021-07-16,22
+67579303b573cb028daaa79b,41 Natcon Dr,2021-08-03,Shirley,Class II,United States,11967-4700,GIVE AND GO PREPARED FOODS (USA),2021-07-17,NY,Terminated,2022-05-19,17
+67579303b573cb028daaa79c,41 Natcon Dr,2021-08-03,Shirley,Class II,United States,11967-4700,GIVE AND GO PREPARED FOODS (USA),2021-07-17,NY,Terminated,2022-05-19,17
+67579303b573cb028daaa79d,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa79e,210 New Hwy,2022-06-21,Amityville,Class I,United States,11701-1116,Calico Cottage Inc,2022-05-24,NY,Terminated,2022-10-27,28
+67579303b573cb028daaa79f,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaa7a0,15407 McGinty Rd W,2023-05-01,Wayzata,Class II,United States,55391-2365,"Cargill, Inc         Corporate Headquarters",2023-03-30,MN,Terminated,2023-06-08,32
+67579303b573cb028daaa7a1,141 Ethel Rd W,2021-06-23,Piscataway,Class II,United States,08854-5928,Clio LLC,2021-05-15,NJ,Terminated,2022-04-14,39
+67579303b573cb028daaa7a2,3820 Lakeside Ave E,2024-02-05,Cleveland,Class II,United States,44114-3848,Greco Sidari,2024-01-11,OH,Terminated,2024-09-05,25
+67579303b573cb028daaa7a3,5000 Kennett Pike,2023-03-27,Greenville,Class I,United States,19807-1818,THE ISH COMPANY,2023-01-09,DE,Terminated,2023-05-02,77
+67579303b573cb028daaa7a4,1500 Brooks Ave,2020-01-21,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-01-09,NY,Terminated,2020-02-27,12
+67579303b573cb028daaa7a5,1 Maple Ave,2024-02-13,White Plains,Class II,United States,10605-1476,DANONE US LLC,2024-02-01,NY,Terminated,2024-03-11,12
+67579303b573cb028daaa7a6,1310 E Lake Dr,2021-02-24,Tarpon Springs,Class I,United States,34688-8110,Barbara's Orchard/Delicae Gourmet,2021-02-05,FL,Terminated,2021-07-20,19
+67579303b573cb028daaa7a7,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7a8,14583 S Ave,2021-11-04,Woodward,Class II,United States,50276-6043,Picket Fence Creamery L.L.C.,2021-09-15,IA,Terminated,2021-11-18,50
+67579303b573cb028daaa7a9,5867 Churchman Ave,2023-01-17,Indianapolis,Class II,United States,46203-6012,Klosterman Baking Company,2022-12-18,IN,Terminated,2023-01-24,30
+67579303b573cb028daaa7aa,440 W Lawndale Dr,2020-10-15,Salt Lake City,Class II,United States,84115-2917,"Lucky Spoon Bakery, LLC",2020-08-26,UT,Terminated,2021-03-02,50
+67579303b573cb028daaa7ab,7350 W Rike Rd,2020-11-18,Covington,Class II,United States,45318-9648,"Rosebud's Ranch and Garden, LLC",2020-11-06,OH,Terminated,2023-03-14,12
+67579303b573cb028daaa7ac,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa7ad,101 Kentile Rd,2023-03-10,South Plainfield,Class III,United States,07080-4805,TWO RIVERS COFFEE LLC,2023-01-31,NJ,Terminated,2023-08-16,38
+67579303b573cb028daaa7ae,2114 Main St,2024-08-02,Forest Grove,Class III,United States,97116-1661,Urban River Spirits,2024-07-01,OR,Terminated,2024-08-13,32
+67579303b573cb028daaa7b0,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa7b1,4140 W Fullerton Ave,2021-05-18,Chicago,Class II,United States,60639-2106,Newly Weds Foods Inc,2021-04-27,IL,Terminated,2022-02-09,21
+67579303b573cb028daaa7b2,1112 Industrial Pkwy,2023-03-02,Brick,Class III,United States,08724-2508,Corim International Coffee Inc.,2023-01-13,NJ,Terminated,2023-03-08,48
+67579303b573cb028daaa7b4,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7b5,7078 Shady Oak Rd,2023-07-18,Eden Prairie,Class I,United States,55344-3505,SunOpta Grains and Foods Inc.,2023-06-16,MN,Terminated,2024-02-07,32
+67579303b573cb028daaa7b6,9411 8th Ave S Ste 3A,2021-09-10,Seattle,Class II,United States,98108-4903,"Full Tilt Ice Cream, LLC",2021-07-29,WA,Terminated,2022-01-24,43
+67579303b573cb028daaa7b7,800 S 40th St,2024-06-06,Springdale,Class II,United States,72762-4826,Rise Baking Company dba South Coast Baking,2024-05-02,AR,Terminated,2024-11-15,35
+67579303b573cb028daaa7b8,500 W Overland Ave Ste 300,2023-04-11,El Paso,Class III,United States,79901-1086,TIPPCON LLC,2023-03-13,TX,Terminated,2024-03-25,29
+67579303b573cb028daaa7b9,561 Se Oak St,2023-06-09,Hillsboro,Class I,United States,97123-4298,"Cascade International Foods, Inc",2023-05-25,OR,Terminated,2024-01-03,15
+67579303b573cb028daaa7ba,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7bb,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa7bc,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7be,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7bf,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaa7c0,4502 W Monterosa St,2022-03-31,Phoenix,Class II,United States,85031-2300,"Suntree Snack Foods, LLC",2022-03-23,AZ,Terminated,2023-03-03,8
+67579303b573cb028daaa7c1,250 E Park Center Blvd,2022-06-21,Boise,Class I,United States,83726-0020,Albertsons Companies LLC,2022-05-21,ID,Terminated,2022-07-19,31
+67579303b573cb028daaa7c2,1815 W 213th St Ste 235,2024-02-05,Torrance,Class II,United States,90501-2825,Mitsuwa Corporation,2023-12-13,CA,Terminated,2024-03-26,54
+67579303b573cb028daaa7c3,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7c4,536 Broadhollow Rd,2023-03-17,Melville,Class III,United States,11747-3647,XIUMIN LIN,2022-08-29,NY,Terminated,2023-03-17,200
+67579303b573cb028daaa7c5,601 Putnam Ave,2021-04-30,Zanesville,Class II,United States,43701-5504,Michael Zakany LLC,2021-04-14,OH,Terminated,2021-06-02,16
+67579303b573cb028daaa7c6,106 Wildwood Rd,2021-10-01,Willernie,Class I,United States,55090-7711,The Earl of Sandwiches,2021-09-16,MN,Terminated,2022-04-21,15
+67579303b573cb028daaa7c7,206 Market Ave,2023-02-27,Boerne,Class II,United States,78006-3003,"Texas Star Nut and Food Co., Inc.",2023-02-07,TX,Terminated,2023-04-04,20
+67579303b573cb028daaa7c8,2902 Blankenbaker Rd,2022-03-29,Louisville,Class II,United States,40299-3841,Tova Industries Inc,2022-03-03,KY,Terminated,2022-08-19,26
+67579303b573cb028daaa7c9,20 W 55th St Fl 7,2023-12-21,New York,Class I,United States,10019-5373,GLOBAL VEG CORP,2023-12-04,NY,Terminated,2024-08-07,17
+67579303b573cb028daaa7ca,646 S Flores St,2020-07-01,San Antonio,Class I,United States,78204-1219,He Butt,2020-06-16,TX,Terminated,2020-08-04,15
+67579303b573cb028daaa7cb,1210 Pier View Dr,2021-11-18,Idaho Falls,Class I,United States,83402-4966,POTANDON PRODUCE LLC,2021-10-25,ID,Terminated,2021-12-08,24
+67579303b573cb028daaa7cc,2746 W Main St,2023-07-10,Tampa,Class I,United States,33607-3317,SANTOS FROZEN FOODS,2023-06-21,FL,Terminated,2024-02-29,19
+67579303b573cb028daaa7cd,267 Kappa Dr,2020-09-02,Pittsburgh,Class II,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa7cf,23086 Harvest Rd,2024-01-08,Edgewood,Class I,United States,52042-7610,Valley View Candies dba,2023-12-08,IA,Terminated,2024-01-11,31
+67579303b573cb028daaa7d0,750 Pine St,2021-04-28,Burlington,Class II,United States,05401-4923,Champlain Chocolate Company,2021-04-14,VT,Terminated,2022-05-25,14
+67579303b573cb028daaa7d1,381 Park Ave S,2022-12-06,New York,Class II,United States,10016-8806,Betty Buzz LLC,2022-11-07,NY,Terminated,2023-10-24,29
+67579303b573cb028daaa7d2,4403 Table Mountain Dr,2020-03-03,Golden,Class II,United States,80403-1636,"Vitamin Cottage Natural Food Markets, Inc.",2020-02-07,CO,Terminated,2020-05-14,25
+67579303b573cb028daaa7d3,510 Main St,2023-04-21,Caldwell,Class II,United States,83605-3740,CREEKSIDE MALLOW LLC,2023-04-13,ID,Terminated,2023-09-05,8
+67579303b573cb028daaa7d4,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa7d5,585 Cleveland Ave,2020-07-10,Columbus,Class III,United States,43215-1755,"Abbott Nutrition, Division of Abbott Laboratories",2020-06-11,OH,Terminated,2020-11-06,29
+67579303b573cb028daaa7d6,267 Kappa Dr,2020-09-02,Pittsburgh,Class II,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa7d7,267 Kappa Dr,2020-09-02,Pittsburgh,Class I,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa7d9,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7da,2525 W 7th Pl,2020-08-24,Eugene,Class I,United States,97402-2688,Emerald Fruit & Produce Inc,2020-07-31,OR,Terminated,2020-09-28,24
+67579303b573cb028daaa7db,1300 Se Stark St Ste 401,2020-02-19,Portland,Class II,United States,97214-2473,New Seasons Market LLC,2020-02-06,OR,Terminated,2020-02-19,13
+67579303b573cb028daaa7dc,10e E 75th St,2020-08-18,New York,Class I,United States,10021-2609,Haven'S Kitchen,2020-08-06,NY,Terminated,2020-11-05,12
+67579303b573cb028daaa7de,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa7df,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa7e0,9601 Overseas Hwy,2023-11-17,Marathon,Class I,United States,33050-3344,Paradise Flavors LLC,2023-09-27,FL,Terminated,2024-01-25,51
+67579303b573cb028daaa7e1,35 Union Ave,2024-01-22,Bridgeport,Class II,United States,06607-2335,Lecoq Cuisine Corporation,2023-12-15,CT,Terminated,2024-07-16,38
+67579303b573cb028daaa7e2,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa7e5,733 Bread And Milk St,2024-06-03,Coventry,Class II,United States,06238-1014,Charles Boggini Company Llc,2024-03-29,CT,Terminated,2024-07-03,66
+67579303b573cb028daaa7e6,5040 Riverside Dr,2021-07-21,Irving,Class I,United States,75039-4307,LSG SKY CHEFS,2021-07-05,TX,Terminated,2021-08-19,16
+67579303b573cb028daaa7e7,904 Woods Rd,2024-01-17,Cambridge,Class II,United States,21613-9470,"TreeHouse Foods, Inc.",2023-09-21,MD,Terminated,2024-03-22,118
+67579303b573cb028daaa7e8,6080 Mcdonough Dr Ste A/B/C/D/F/G,2022-01-11,Norcross,Class I,United States,30093,NutraCap Labs LLC,2021-11-09,GA,Terminated,2024-05-21,63
+67579303b573cb028daaa7e9,6325 Gunpark Dr,2021-04-02,Boulder,Class I,United States,80301-3592,Simply Delicious Inc.,2021-03-22,CO,Terminated,2021-11-08,11
+67579303b573cb028daaa7ea,184 Suburban Rd,2020-10-22,San Luis Obispo,Class I,United States,93401-7502,Sauer Brands Inc - SLO,2020-10-09,CA,Terminated,2021-02-18,13
+67579303b573cb028daaa7eb,40 Pointe Dr,2024-01-12,Brea,Class II,United States,92821-3652,Ventura Foods Llc,2024-01-04,CA,Terminated,2024-06-28,8
+67579303b573cb028daaa7ec,310 S Park Dr,2024-06-24,Saint Marys,Class II,United States,45885-9688,Classic Delight LLC,2024-06-10,OH,Terminated,2024-08-12,14
+67579303b573cb028daaa7ed,7560 NW 43rd St,2020-11-10,Miami,Class I,United States,33166-6408,Incredible Fish,2020-10-23,FL,Terminated,2020-12-30,18
+67579303b573cb028daaa7ee,15443 S Latourette Rd,2021-07-14,Oregon City,Class II,United States,97045-9432,Bea Lydeckers Naturals Inc,2021-06-21,OR,Terminated,2022-02-24,23
+67579303b573cb028daaa7ef,1812 N Moore St,2020-01-09,Arlington,Class II,United States,22209-1815,Gerber Products Company dba Nestle Infant Nutrition,2019-10-30,VA,Terminated,2020-06-18,71
+67579303b573cb028daaa7f0,4465 State Route 103 S,2024-08-08,Willard,Class I,United States,44890-9220,Wiers Farm Inc,2024-07-11,OH,Terminated,2024-08-23,28
+67579303b573cb028daaa7f1,301 Salem Rd,2022-08-19,Jeffersonville,Class II,United States,47130,"Enjoy Life Natural Brands, LLC",2022-06-30,IN,Terminated,2024-08-02,50
+67579303b573cb028daaa7f2,3125 Mercer Ave Ste 101,2023-08-04,Bellingham,Class II,United States,98225-8435,Bellingham Pasta Co,2023-07-03,WA,Terminated,2023-09-13,32
+67579303b573cb028daaa7f3,211 E 48th St,2021-08-27,New York,Class I,United States,10017-1538,Bright Farms,2021-07-15,NY,Terminated,2021-10-05,43
+67579303b573cb028daaa7f5,5867 Churchman Ave,2023-01-17,Indianapolis,Class II,United States,46203-6012,Klosterman Baking Company,2022-12-18,IN,Terminated,2023-01-24,30
+67579303b573cb028daaa7f6,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa7f7,1 Procter And Gamble Plz,2022-08-03,Cincinnati,Class II,United States,45202-3315,The Procter & Gamble Company,2022-07-12,OH,Terminated,2024-08-15,22
+67579303b573cb028daaa7f9,7 Corporate Dr,2023-08-25,Keene,Class II,United States,03431-5042,C & S Wholesale Grocers Inc.,2023-07-19,NH,Terminated,2023-09-27,37
+67579303b573cb028daaa7fa,2905 N Highway 61,2022-09-06,Muscatine,Class III,United States,52761-5809,"Kent Precision Foods Group, Inc.",2022-06-09,IA,Terminated,2022-12-20,89
+67579303b573cb028daaa7fb,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaa7fc,250 E Park Center Blvd,2022-08-18,Boise,Class I,United States,83726-0020,Albertsons Companies LLC,2022-07-13,ID,Terminated,2022-09-29,36
+67579303b573cb028daaa7fd,2715 W 15th St,2021-06-24,Brooklyn,Class I,United States,11224-2705,Banner Smoked Fish Inc.,2021-06-01,NY,Terminated,2021-11-16,23
+67579303b573cb028daaa7fe,10110 San Jose Blvd,2023-05-10,Jacksonville,Class II,United States,32257-5838,Windy Hill Chocolate LLC,2023-03-22,FL,Terminated,2023-07-31,49
+67579303b573cb028daaa7ff,41 Ethel Rd W,2023-03-02,Piscataway,Class III,United States,08854-5969,Snack Innovations Inc.,2023-01-20,NJ,Terminated,2023-08-09,41
+67579303b573cb028daaa800,17 Republic Ave,2024-08-13,Shelby,Class I,United States,44875-2142,RS Hanline and Company Inc,2024-07-19,OH,Terminated,2024-08-27,25
+67579303b573cb028daaa801,3614 15th Ave,2023-08-28,Brooklyn,Class I,United States,11218-4402,"Real Kosher Ice Cream, Inc.",2023-08-08,NY,Terminated,2024-06-14,20
+67579303b573cb028daaa802,1255 Oblong Rd,2023-07-05,Williamstown,Class II,United States,01267-3046,Cricket Creek Farm LLC,2023-05-25,MA,Terminated,2024-04-16,41
+67579303b573cb028daaa803,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa804,1996 S Geiger Blvd,2020-09-28,Spokane,Class I,United States,99224-5411,"Spokane Produce, Inc.",2020-08-03,WA,Terminated,2020-10-08,56
+67579303b573cb028daaa806,550 Bowie St,2020-11-24,Austin,Class I,United States,78703-4644,Whole Foods Market,2020-10-27,TX,Terminated,2020-12-04,28
+67579303b573cb028daaa807,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa808,1099 W Front St,2024-11-13,Boise,Class II,United States,83702-6924,JR Simplot Company,2024-10-23,ID,Terminated,2024-11-14,21
+67579303b573cb028daaa809,11080 Grader St,2024-09-04,Dallas,Class II,United States,75238-2401,WR Coffee Inc,2024-07-30,TX,Terminated,2024-09-04,36
+67579303b573cb028daaa80a,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaa80b,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa80c,100 Bridge St,2022-09-09,East Windsor,Class I,United States,06088-9585,EZ Noble Sushi,2022-08-11,CT,Terminated,2022-11-03,29
+67579303b573cb028daaa80d,1500 Brooks Ave,2020-08-25,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-08-07,NY,Terminated,2020-08-31,18
+67579303b573cb028daaa80e,475 6th St,2021-09-02,San Francisco,Class II,United States,94103-4706,Mai Cuisine,2021-08-13,CA,Terminated,2021-09-23,20
+67579303b573cb028daaa810,7955 S State Road 7,2024-06-26,Lake Worth,Class I,United States,33449-6701,GREEN LIFE FARMS,2024-06-06,FL,Terminated,2024-07-10,20
+67579303b573cb028daaa811,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaa814,4322 Moreland Ave Bldg B,2023-12-19,Conley,Class I,United States,30288-2142,Renaissance Food Group,2023-11-24,GA,Terminated,2024-06-11,25
+67579303b573cb028daaa815,100 W Alluvial Ave,2023-07-07,Clovis,Class I,United States,93611-9176,Wawona Frozen Foods Inc.,2023-06-05,CA,Terminated,2023-07-27,32
+67579303b573cb028daaa816,536 Fayette St,2022-10-21,Perth Amboy,Class II,United States,08861-3742,WORLDWIDE SEAFOOD PRODUCTS LLC,2022-09-16,NJ,Terminated,2023-06-15,35
+67579303b573cb028daaa817,4917 State Route 515,2022-06-02,Walnut Creek,Class I,United States,44687,Walnut Creek Chocolate Co Inc,2022-05-23,OH,Terminated,2022-07-19,10
+67579303b573cb028daaa818,23950 Ryan Rd Unit B,2021-03-16,Warren,Class I,United States,48091-4556,"Mediterranean Food, Inc.",2021-02-24,MI,Terminated,2021-09-01,20
+67579303b573cb028daaa819,16400 Trojan Way,2023-05-10,La Mirada,Class II,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2023-03-03,CA,Terminated,2024-05-03,68
+67579303b573cb028daaa81a,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa81b,4917 State Route 515,2022-06-02,Walnut Creek,Class I,United States,44687,Walnut Creek Chocolate Co Inc,2022-05-23,OH,Terminated,2022-07-19,10
+67579303b573cb028daaa81c,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa81d,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa81e,2300 Us Highway 1,2021-04-28,North Brunswick,Class II,United States,08902-4438,"Church & Dwight Co., Inc. OGI Distribution Center",2021-04-19,NJ,Terminated,2022-02-03,9
+67579303b573cb028daaa820,201 S Broadway Ave,2024-05-01,Shawnee,Class II,United States,74801-8427,Shawnee Milling Company,2024-03-26,OK,Terminated,2024-09-04,36
+67579303b573cb028daaa821,904 Woods Rd,2024-01-17,Cambridge,Class II,United States,21613-9470,"TreeHouse Foods, Inc.",2023-09-21,MD,Terminated,2024-03-22,118
+67579303b573cb028daaa822,3403 S 1400 W Ste C,2021-09-01,West Valley City,Class II,United States,84119-4050,"Gem City Fine Foods, LLC",2021-08-07,UT,Terminated,2022-07-14,25
+67579303b573cb028daaa823,North Gallagher Rd,2020-10-16,Dover,Class II,United States,33527,TAMPA BAY FISHERIES INC,2020-09-23,FL,Terminated,2021-02-23,23
+67579303b573cb028daaa824,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa825,747 W 4170 S,2022-08-31,Murray,Class II,United States,84123-1364,"Clinical Innovations, LLC",2022-07-19,UT,Terminated,2023-02-09,43
+67579303b573cb028daaa826,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaa827,1201 W I65 Service Rd N,2024-03-06,Mobile,Class II,United States,36618-1104,"FGP Manufacturing, LLC",2024-02-07,AL,Terminated,2024-04-16,28
+67579303b573cb028daaa828,7419 Mentor Ave,2023-09-18,Mentor,Class II,United States,44060-5405,Fox  Confections LLC,2023-08-31,OH,Terminated,2023-10-02,18
+67579303b573cb028daaa829,770 Cochituate Rd,2022-06-06,Framingham,Class I,United States,01701-4666,"The TJX Companies, Inc.",2022-05-01,MA,Terminated,2023-03-17,36
+67579303b573cb028daaa82b,2900 Easton Square Pl,2022-06-15,Columbus,Class III,United States,43219-6225,Abbott Laboratories,2022-06-03,OH,Terminated,2022-12-21,12
+67579303b573cb028daaa82d,820 N Reading Rd,2023-01-04,Ephrata,Class III,United States,17522-8429,"Four Seasons Produce Warehouse #2/Sunrise Logistics, Inc",2022-11-15,PA,Terminated,2023-02-22,50
+67579303b573cb028daaa82e,8300 Rex Rd,2022-11-02,Pico Rivera,Class I,United States,90660-3719,Mariscos Bahia Inc,2022-10-20,CA,Terminated,2023-01-06,13
+67579303b573cb028daaa82f,1000 S 2nd St,2021-01-22,Sunbury,Class II,United States,17801-3318,"Weis Markets, Inc., Ice Cream Division",2021-01-05,PA,Terminated,2022-02-15,17
+67579303b573cb028daaa830,242 Sheetz Way,2023-03-10,Claysburg,Class II,United States,16625-8345,"Sheetz Distribution Services, L.L.C.",2023-02-16,PA,Terminated,2023-03-13,22
+67579303b573cb028daaa831,2118 Centennial Dr,2020-02-04,Gainesville,Class I,United States,30504-5757,"Almark Foods, LLC",2019-12-19,GA,Terminated,2021-09-17,47
+67579303b573cb028daaa832,6120 Smith Station Rd,2022-01-10,Fredericksburg,Class II,United States,22407-9321,"Lidl US Operations, LLC",2021-12-10,VA,Terminated,2022-07-08,31
+67579303b573cb028daaa833,433 W Van Buren St Fl 3,2023-07-06,Chicago,Class II,United States,60607-0433,PepsiCo Beverages & Foods,2023-06-09,IL,Terminated,2024-04-12,27
+67579303b573cb028daaa834,200 E Randolph St,2021-12-17,Chicago,Class II,United States,60601-6436,KRAFT HEINZ FOODS COMPANY,2021-11-11,IL,Terminated,2024-09-06,36
+67579303b573cb028daaa835,13461 Nw 47th Ave,2020-04-29,Opa Locka,Class III,United States,33054-4317,GOLDEN NUTRITION INC,2020-04-06,FL,Terminated,2020-08-21,23
+67579303b573cb028daaa836,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa837,920 Avenue R Ste 100,2020-11-05,Grand Prairie,Class I,United States,75050-1528,Country Fresh Inc.,2020-10-01,TX,Terminated,2020-12-16,35
+67579303b573cb028daaa838,550 Kasota Ave SE,2020-07-02,Minneapolis,Class II,United States,55414-2811,Flagstone Foods LLC,2020-06-17,MN,Terminated,2023-04-04,15
+67579303b573cb028daaa839,3411 Vt Rte 16,2022-08-29,East Hardwick,Class I,United States,05836-9630,Kingdom Creamery of Vermont LLC,2022-07-29,VT,Terminated,2023-03-17,31
+67579303b573cb028daaa83a,1051 Pacific Ave,2023-11-08,Oxnard,Class I,United States,93030-7254,"Gills Onions, LLC",2023-10-23,CA,Terminated,2024-09-20,16
+67579303b573cb028daaa83b,161 Main Ave,2020-11-16,Sacramento,Class II,United States,95838-2080,"Starwest Botanicals, Inc",2020-10-16,CA,Terminated,2021-10-05,31
+67579303b573cb028daaa83c,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa83d,40 W 25th St,2021-11-18,New York,Class I,United States,10010-2707,HELLOFRESH US,2021-10-22,NY,Terminated,2022-09-01,27
+67579303b573cb028daaa83e,454 Meacham Ave,2021-04-21,Elmont,Class II,United States,11003-3852,USA LANKA INC,2021-03-30,NY,Terminated,2022-05-18,22
+67579303b573cb028daaa83f,2715 W 15th St,2021-06-24,Brooklyn,Class I,United States,11224-2705,Banner Smoked Fish Inc.,2021-06-01,NY,Terminated,2021-11-16,23
+67579303b573cb028daaa840,222 Merchandise Mart Plz,2021-05-20,Chicago,Class II,United States,60654-1103,CONAGRA BRANDS,2021-05-06,IL,Terminated,2022-02-15,14
+67579303b573cb028daaa841,401 Alabama St Ste 300,2022-03-24,Redlands,Class II,United States,92373-8064,ALLI & ROSE LLC,2022-02-24,CA,Terminated,2022-05-17,28
+67579303b573cb028daaa843,4917 State Route 515,2022-06-02,Walnut Creek,Class I,United States,44687,Walnut Creek Chocolate Co Inc,2022-05-23,OH,Terminated,2022-07-19,10
+67579303b573cb028daaa844,3060 Centerville Rd,2023-10-30,Little Canada,Class I,United States,55117-1105,Bix Produce Company LLC,2023-09-29,MN,Terminated,2024-01-11,31
+67579303b573cb028daaa845,2141 Ne Airport Rd Ste 2,2022-01-10,Roseburg,Class II,United States,97470-5472,Local Fixe LLC,2021-12-17,OR,Terminated,2022-03-01,24
+67579303b573cb028daaa846,319 S Vine St,2024-02-16,Fostoria,Class II,United States,44830-1843,Mennel Milling Company,2024-01-30,OH,Terminated,2024-03-21,17
+67579303b573cb028daaa847,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa848,11324 Mount Vernon Rd,2021-05-22,Utica,Class I,United States,43080-7703,Velvet Ice Cream Company,2021-04-23,OH,Terminated,2021-07-20,29
+67579303b573cb028daaa849,Int. Carretera 865 Con Carretera 866,2021-11-25,Toa Baja,Class III,United States,00949,"Empresas La Famosa, Inc.",2021-08-23,PR,Terminated,2022-03-09,94
+67579303b573cb028daaa84a,2950 Grace Ln,2024-03-27,Costa Mesa,Class II,United States,92626-4169,"NRS Enterprises, Inc. dba Sunflour Bakery",2024-03-08,CA,Terminated,2024-08-21,19
+67579303b573cb028daaa84b,2715 W 15th St,2021-06-24,Brooklyn,Class I,United States,11224-2705,Banner Smoked Fish Inc.,2021-06-01,NY,Terminated,2021-11-16,23
+67579303b573cb028daaa84c,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa84e,184 Suburban Rd,2020-10-22,San Luis Obispo,Class I,United States,93401-7502,Sauer Brands Inc - SLO,2020-10-09,CA,Terminated,2021-02-18,13
+67579303b573cb028daaa84f,2900 Easton Square Pl,2022-11-16,Columbus,Class II,United States,43219-6225,Abbott Laboratories,2022-10-13,OH,Terminated,2024-08-14,34
+67579303b573cb028daaa850,333 1st St,2023-10-11,Eureka,Class I,United States,95501-0467,Dick Taylor Inc,2023-09-25,CA,Terminated,2024-09-17,16
+67579303b573cb028daaa851,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa852,8300 Rex Rd,2022-11-02,Pico Rivera,Class I,United States,90660-3719,Mariscos Bahia Inc,2022-10-20,CA,Terminated,2023-01-06,13
+67579303b573cb028daaa853,150 Willow Ave,2022-04-04,City Of Industry,Class I,United States,91746-2038,T Fresh Company DBA Yes Produce,2022-03-18,CA,Terminated,2022-05-05,17
+67579303b573cb028daaa854,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaa856,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa857,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa858,171 Butter Rd,2023-09-26,Leola,Class II,United States,17540-9549,"Regal Foods, Inc",2023-07-20,PA,Terminated,2023-11-20,68
+67579303b573cb028daaa85a,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa85c,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa85d,2610 Homestead Pl,2020-04-13,Rancho Dominguez,Class III,United States,90220-5610,"Organic By Nature, Inc.",2020-02-24,CA,Terminated,2021-02-02,49
+67579303b573cb028daaa85e,212 28th Ave N,2021-01-12,Minneapolis,Class II,United States,55411-2706,Ocean Providence Minneapolis LLC,2020-12-30,MN,Terminated,2021-03-19,13
+67579303b573cb028daaa860,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa861,3728 SE 6th St,2024-09-12,Topeka,Class II,United States,66607-2368,"Reser's Fine Foods, Inc.",2024-08-02,KS,Terminated,2024-09-30,41
+67579303b573cb028daaa863,6080 Mcdonough Dr Ste A/B/C/D/F/G,2022-01-11,Norcross,Class I,United States,30093,NutraCap Labs LLC,2021-11-09,GA,Terminated,2024-05-21,63
+67579303b573cb028daaa864,1 Fine Chocolate Pl,2020-03-09,Stratham,Class II,United States,03885-2577,"Lindt & Sprungli (USA), Inc.",2020-02-07,NH,Terminated,2020-09-01,31
+67579303b573cb028daaa866,7535 Woodman Pl,2022-08-07,Van Nuys,Class II,United States,91405-1545,BrandStorm Inc,2022-07-15,CA,Terminated,2022-10-04,23
+67579303b573cb028daaa867,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa868,2928 Walden Ave,2022-04-07,Depew,Class I,United States,14043-2603,"Fruit Fresh Up, Inc.",2022-03-18,NY,Terminated,2023-08-21,20
+67579303b573cb028daaa869,4 Graf Rd,2022-01-26,Newburyport,Class II,United States,01950-4015,Dianne's Fine Desserts,2021-12-22,MA,Terminated,2022-08-03,35
+67579303b573cb028daaa86a,705 Vesta St,2021-10-20,Inglewood,Class II,United States,90302-3316,Chocolate and the Chip,2021-10-05,CA,Terminated,2021-11-30,15
+67579303b573cb028daaa86b,2700 Westinghouse Blvd,2022-05-02,Charlotte,Class I,United States,28273-0113,Bakkavor Foods USA Inc.,2022-04-19,NC,Terminated,2023-02-24,13
+67579303b573cb028daaa86c,310 S Park Dr,2024-06-24,Saint Marys,Class II,United States,45885-9688,Classic Delight LLC,2024-06-10,OH,Terminated,2024-08-12,14
+67579303b573cb028daaa86d,606 N Main St,2022-02-01,Milton Freewater,Class II,United States,97862-1728,Walla Walla Cheese Company LLC,2022-01-18,OR,Terminated,2022-02-23,14
+67579303b573cb028daaa86e,1400 W 2700 N,2020-02-19,Pleasant View,Class II,United States,84404-1260,CSM Bakery Products,2020-02-11,UT,Terminated,2020-12-23,8
+67579303b573cb028daaa86f,5221 Ballard Ave Nw,2023-02-08,Seattle,Class III,United States,98107-4848,SKINNY DIPPED,2023-01-19,WA,Terminated,2024-03-04,20
+67579303b573cb028daaa870,80 School St,2020-03-11,Greenfield,Class II,United States,01301-2410,"Snow's Acquisition, LLC",2020-02-27,MA,Terminated,2020-11-05,13
+67579303b573cb028daaa873,3628 W 1820 S,2020-12-07,Salt Lake City,Class III,United States,84104-4901,"JMH International, LLC",2020-10-21,UT,Terminated,2021-08-09,47
+67579303b573cb028daaa874,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa875,31550 Nw Commercial St,2023-02-17,North Plains,Class I,United States,97133,PILGRIMS ROASTED NUTZ,2023-02-02,OR,Terminated,2023-04-21,15
+67579303b573cb028daaa876,1001 13th Ave E,2021-04-16,Bradenton,Class II,United States,34208-2656,"Tropicana Products, Inc.",2021-02-04,FL,Terminated,2021-05-19,71
+67579303b573cb028daaa877,26661 Bunert Rd,2020-02-06,Warren,Class I,United States,48089-3650,"Lipari Foods Operating Company, LLC.",2020-01-06,MI,Terminated,2020-08-18,31
+67579303b573cb028daaa878,7700 Conowingo Ave,2021-02-02,Jessup,Class II,United States,20794-9473,Lancaster Foods LLC,2021-01-10,MD,Terminated,2021-07-27,23
+67579303b573cb028daaa87a,250 E Park Center Blvd,2022-06-21,Boise,Class I,United States,83726-0020,Albertsons Companies LLC,2022-05-21,ID,Terminated,2022-07-19,31
+67579303b573cb028daaa87b,555 Edgar Waldo Way,2023-04-11,Columbus,Class II,United States,43215-3070,White Castle System,2023-04-04,OH,Terminated,2023-05-18,7
+67579303b573cb028daaa87e,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa87f,1500 Brooks Ave,2020-01-21,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-01-09,NY,Terminated,2020-02-27,12
+67579303b573cb028daaa880,106 Wildwood Rd,2021-10-01,Willernie,Class I,United States,55090-7711,The Earl of Sandwiches,2021-09-16,MN,Terminated,2022-04-21,15
+67579303b573cb028daaa881,5403 S Central Ave,2020-06-05,Phoenix,Class II,United States,85040-3050,"La Sonorense, Inc.",2020-05-20,AZ,Terminated,2022-07-28,16
+67579303b573cb028daaa883,7258 Nw 25th St,2022-09-22,Miami,Class I,United States,33122-1701,"GC FOOD FACTORY, LLC",2022-08-15,FL,Terminated,2023-02-01,38
+67579303b573cb028daaa885,320 Ave Barbosa,2023-05-04,San Juan,Class II,United States,00917-4315,"Novis PR, LLC dba Kramer Novis",2023-03-27,PR,Terminated,2023-08-15,38
+67579303b573cb028daaa886,3728 SE 6th St,2024-09-12,Topeka,Class II,United States,66607-2368,"Reser's Fine Foods, Inc.",2024-08-02,KS,Terminated,2024-09-30,41
+67579303b573cb028daaa887,16690 Swingley Ridge Rd,2020-01-31,Chesterfield,Class I,United States,63017-0758,"Dierbergs Markets, Inc Corporate Office",2019-12-24,MO,Terminated,2020-02-11,38
+67579303b573cb028daaa888,4465 State Route 103 S,2024-08-08,Willard,Class I,United States,44890-9220,Wiers Farm Inc,2024-07-11,OH,Terminated,2024-08-23,28
+67579303b573cb028daaa88a,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa88b,5217 Se Malden St,2023-07-14,Portland,Class II,United States,97206-9058,Botanas Michoacanas,2023-06-08,OR,Terminated,2024-11-14,36
+67579303b573cb028daaa88c,71 Stow Dr,2022-08-02,Chesterfield,Class II,United States,03443,"United Natural Foods, Inc.",2022-06-16,NH,Terminated,2023-07-27,47
+67579303b573cb028daaa88d,13800 Sw 142nd Ave Ste 10,2023-06-08,Miami,Class II,United States,33186-7313,DIBE LLC,2023-04-10,FL,Terminated,2023-09-29,59
+67579303b573cb028daaa88e,310 S Park Dr,2024-06-24,Saint Marys,Class II,United States,45885-9688,Classic Delight LLC,2024-06-10,OH,Terminated,2024-08-12,14
+67579303b573cb028daaa88f,2959 Salinas Hwy,2022-02-08,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2021-12-22,CA,Terminated,2022-03-22,48
+67579303b573cb028daaa890,1660 Suckle Hwy,2021-12-06,Pennsauken,Class II,United States,08110,Puratos Corporation (HQ and Innovation Center),2021-10-29,NJ,Terminated,2023-08-28,38
+67579303b573cb028daaa892,815 SE Mountain View Dr,2021-05-13,Cascade Locks,Class II,United States,97014,JKH Enterprises,2021-04-19,OR,Terminated,2021-05-14,24
+67579303b573cb028daaa893,290 Boyer Cir,2021-01-29,Williston,Class II,United States,05495-8931,Champlain Chocolate Company,2021-01-15,VT,Terminated,2022-01-11,14
+67579303b573cb028daaa894,2746 W Main St,2023-07-10,Tampa,Class I,United States,33607-3317,SANTOS FROZEN FOODS,2023-06-21,FL,Terminated,2024-02-29,19
+67579303b573cb028daaa895,20 Governor Dr,2024-07-12,Newburgh,Class I,United States,12550-8338,Solata Food LLC,2024-06-20,NY,Terminated,2024-07-17,22
+67579303b573cb028daaa896,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa898,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaa89a,475 6th St,2021-09-02,San Francisco,Class II,United States,94103-4706,Mai Cuisine,2021-08-13,CA,Terminated,2021-09-23,20
+67579303b573cb028daaa89b,3125 Mercer Ave Ste 101,2023-08-04,Bellingham,Class II,United States,98225-8435,Bellingham Pasta Co,2023-07-03,WA,Terminated,2023-09-13,32
+67579303b573cb028daaa89c,206 S Belt Hwy,2023-05-22,Saint Joseph,Class II,United States,64506,Country Cookie LLC.,2023-04-18,MO,Terminated,2023-05-23,34
+67579303b573cb028daaa89d,1722 S Coast Hwy Ste 4,2021-07-16,Oceanside,Class II,United States,92054-5474,"San Diego Coffee, Tea and Spice",2021-06-29,CA,Terminated,2021-07-28,17
+67579303b573cb028daaa89e,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa89f,372 S Eagle Rd Pmb 353,2020-04-03,Eagle,Class II,United States,83616-5908,Global Juices & Fruits LLC,2020-03-02,ID,Terminated,2020-12-29,32
+67579303b573cb028daaa8a0,6454 S Tex Pt,2020-04-24,Homosassa,Class III,United States,34448-5919,"CT Health Solutions, LLC",2020-03-27,FL,Terminated,2020-08-27,28
+67579303b573cb028daaa8a1,828 N Killingsworth St,2023-05-15,Portland,Class III,United States,97217-2218,"Origami Catering, LLC",2023-04-24,OR,Terminated,2023-05-24,21
+67579303b573cb028daaa8a2,8701 W Gage Blvd,2022-09-27,Kennewick,Class II,United States,99336-1034,Lamb Weston Sales,2022-08-19,WA,Terminated,2023-09-29,39
+67579303b573cb028daaa8a4,206 S Belt Hwy,2023-05-22,Saint Joseph,Class II,United States,64506,Country Cookie LLC.,2023-04-18,MO,Terminated,2023-05-23,34
+67579303b573cb028daaa8a7,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa8a8,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa8ab,179 Queen City Park Rd,2021-01-20,Burlington,Class I,United States,05401-5932,"Rhino Foods, Inc.",2020-12-31,VT,Terminated,2021-09-08,20
+67579303b573cb028daaa8ac,2929 Walker Ave Nw,2023-05-09,Grand Rapids,Class I,United States,49544-6402,Meijer Inc,2023-04-05,MI,Terminated,2023-05-12,34
+67579303b573cb028daaa8ad,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaa8ae,2929 Walker Ave Nw,2023-05-09,Grand Rapids,Class I,United States,49544-6402,Meijer Inc,2023-04-05,MI,Terminated,2023-05-12,34
+67579303b573cb028daaa8af,6060 E Beaverton Rd,2022-02-08,Clare,Class II,United States,48617-9653,Natural Way Cheese,2022-01-12,MI,Terminated,2024-08-01,27
+67579303b573cb028daaa8b0,345 Westridge Dr,2020-03-03,Watsonville,Class III,United States,95076-4169,Driscoll's Inc.,2020-02-08,CA,Terminated,2020-03-03,24
+67579303b573cb028daaa8b1,19065 Portola Dr Ste C,2023-01-23,Salinas,Class I,United States,93908-1250,"Church Brothers, LLC",2022-12-23,CA,Terminated,2023-01-24,31
+67579303b573cb028daaa8b2,2700 Westinghouse Blvd,2020-02-04,Charlotte,Class I,United States,28273-0113,Bakkavor Foods USA Inc.,2019-12-21,NC,Terminated,2020-06-15,45
+67579303b573cb028daaa8b3,225 Monsignor Obrien Hwy,2020-09-09,Cambridge,Class II,United States,02141-1249,"The Superior Nut Company, Inc.",2020-08-20,MA,Terminated,2021-05-05,20
+67579303b573cb028daaa8b4,2715 W 15th St,2021-06-24,Brooklyn,Class I,United States,11224-2705,Banner Smoked Fish Inc.,2021-06-01,NY,Terminated,2021-11-16,23
+67579303b573cb028daaa8b5,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8b6,4225 N Palm St,2023-12-13,Fullerton,Class I,United States,92835-1045,Houdini Inc.,2023-11-24,CA,Terminated,2024-01-25,19
+67579303b573cb028daaa8b7,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8b8,15570 SW Jenkins Rd,2024-03-19,Beaverton,Class I,United States,97006-6003,"Reser's Fine Foods, Inc.",2024-02-06,OR,Terminated,2024-07-05,42
+67579303b573cb028daaa8b9,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8bb,180 State St,2021-04-20,Brockport,Class II,United States,14420-2051,Bonduelle USA Inc.,2021-03-16,NY,Terminated,2022-05-23,35
+67579303b573cb028daaa8bc,267 Kappa Dr,2020-09-02,Pittsburgh,Class I,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa8bd,267 Kappa Dr,2020-09-02,Pittsburgh,Class I,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa8be,615 Superior Commerce Blvd Ste 103,2024-08-21,Apopka,Class II,United States,32703-3363,"EL Chilar-HF, LLC",2024-07-29,FL,Terminated,2024-10-11,23
+67579303b573cb028daaa8bf,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa8c0,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaa8c1,215 N Mill Rd,2023-11-06,Vineland,Class I,United States,08360-3433,Safeway Fresh Foods LLC,2023-10-17,NJ,Terminated,2023-11-16,20
+67579303b573cb028daaa8c2,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8c3,11103 N Old Wire Rd,2020-02-20,Rogers,Class II,United States,72756-9871,"Pepper Source, Ltd.",2020-02-13,AR,Terminated,2020-04-17,7
+67579303b573cb028daaa8c4,4301 University Way Ne,2023-08-08,Seattle,Class II,United States,98105-5808,"Sweet Alchemy Ice Creamery, Inc",2023-06-30,WA,Terminated,2023-09-11,39
+67579303b573cb028daaa8c5,1903 W Main St,2020-02-28,Troy,Class I,United States,45373-1165,"Blendtopia Products, LLC",2020-02-10,OH,Terminated,2022-02-28,18
+67579303b573cb028daaa8c6,301 River Rd,2023-05-30,Whately,Class I,United States,01093,"Chang & Son Enterprises, Inc.",2023-05-05,MA,Terminated,2023-09-29,25
+67579303b573cb028daaa8c7,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaa8c8,1129 Northern Blvd Ste 404,2021-01-25,Manhasset,Class II,United States,11030-3022,BLUE STONE IMPORT USA INC,2021-01-07,NY,Terminated,2021-04-28,18
+67579303b573cb028daaa8c9,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8ca,3125 Mercer Ave Ste 101,2023-08-04,Bellingham,Class II,United States,98225-8435,Bellingham Pasta Co,2023-07-03,WA,Terminated,2023-09-13,32
+67579303b573cb028daaa8cb,3820 Lakeside Ave E,2024-02-05,Cleveland,Class II,United States,44114-3848,Greco Sidari,2024-01-11,OH,Terminated,2024-09-05,25
+67579303b573cb028daaa8cc,2900 Easton Square Pl,2022-06-22,Columbus,Class II,United States,43219-6225,Abbott Laboratories,2022-06-03,OH,Terminated,2023-04-14,19
+67579303b573cb028daaa8cd,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa8ce,4 New Century Pkwy,2024-06-06,New Century,Class I,United States,66031-1144,Danisco USA Inc.,2024-05-03,KS,Terminated,2024-09-04,34
+67579303b573cb028daaa8cf,233 E Bristol Ln,2020-02-04,Orange,Class II,United States,92865-2715,"Merical, LLC",2020-01-09,CA,Terminated,2020-08-14,26
+67579303b573cb028daaa8d0,548 Broadhollow Rd,2022-06-01,Melville,Class II,United States,11747-3722,"Natural Organics, Inc.",2022-05-03,NY,Terminated,2024-04-30,29
+67579303b573cb028daaa8d1,716 Jadwin Ave,2024-03-19,Richland,Class II,United States,99352-4218,"Ethos Bakery, LLC",2024-01-31,WA,Terminated,2024-03-26,48
+67579303b573cb028daaa8d2,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa8d3,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa8d5,1635 Innovation Dr,2023-09-09,Rockwall,Class II,United States,75032-6218,"Pegasus Foods, Inc.",2023-06-26,TX,Terminated,2024-04-08,75
+67579303b573cb028daaa8d6,1975 E 61st St,2020-09-30,Cleveland,Class II,United States,44103-3810,EAGLE FAMILY FOODS GROUP LLC,2020-08-28,OH,Terminated,2020-11-24,33
+67579303b573cb028daaa8d7,290 Boyer Cir,2021-01-29,Williston,Class II,United States,05495-8931,Champlain Chocolate Company,2021-01-15,VT,Terminated,2022-01-11,14
+67579303b573cb028daaa8d8,41 Natcon Dr,2021-08-03,Shirley,Class II,United States,11967-4700,GIVE AND GO PREPARED FOODS (USA),2021-07-17,NY,Terminated,2022-05-19,17
+67579303b573cb028daaa8d9,16400 Trojan Way,2023-05-10,La Mirada,Class II,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2023-03-03,CA,Terminated,2024-05-03,68
+67579303b573cb028daaa8da,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa8db,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaa8dd,1235 S Santa Fe St,2024-02-26,Wichita,Class III,United States,67211-3223,"Ancient Formulas, Inc.",2024-01-25,KS,Terminated,2024-02-29,32
+67579303b573cb028daaa8de,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaa8e0,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaa8e1,631 N Cluff Ave,2020-12-08,Lodi,Class II,United States,95240-0756,Pacific Coast Producers,2020-11-30,CA,Terminated,2021-02-10,8
+67579303b573cb028daaa8e2,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8e3,10813 Castolon Dr,2023-01-12,Dallas,Class II,United States,75228-2515,Hippos and Hashbrowns,2022-11-21,TX,Terminated,2024-04-30,52
+67579303b573cb028daaa8e4,4 New Century Pkwy,2024-06-06,New Century,Class I,United States,66031-1144,Danisco USA Inc.,2024-05-03,KS,Terminated,2024-09-04,34
+67579303b573cb028daaa8e5,1651 Eska Way,2020-05-27,Silverton,Class II,United States,97381-1294,"Willamette Valley Pie Company, LLC.",2020-05-13,OR,Terminated,2020-06-22,14
+67579303b573cb028daaa8e8,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8e9,17825 Great Lakes Pkwy,2020-03-06,Hiram,Class II,United States,44234-9677,Great Lakes Cheese Co Inc,2020-02-12,OH,Terminated,2020-05-01,23
+67579303b573cb028daaa8ea,7419 Mentor Ave,2023-09-18,Mentor,Class II,United States,44060-5405,Fox  Confections LLC,2023-08-31,OH,Terminated,2023-10-02,18
+67579303b573cb028daaa8eb,1500 Brooks Ave,2021-07-06,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2021-06-14,NY,Terminated,2022-05-19,22
+67579303b573cb028daaa8ec,4666 E Faries Pkwy,2020-02-12,Decatur,Class I,United States,62526-5666,Adm Milling,2019-09-28,IL,Terminated,2020-09-28,137
+67579303b573cb028daaa8ed,6060 E Beaverton Rd,2022-02-08,Clare,Class II,United States,48617-9653,Natural Way Cheese,2022-01-12,MI,Terminated,2024-08-01,27
+67579303b573cb028daaa8ee,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa8ef,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa8f0,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa8f1,6080 Mcdonough Dr Ste A/B/C/D/F/G,2022-01-11,Norcross,Class I,United States,30093,NutraCap Labs LLC,2021-11-09,GA,Terminated,2024-05-21,63
+67579303b573cb028daaa8f2,2959 Salinas Hwy,2021-02-25,Monterey,Class II,United States,93940-6400,Dole Fresh Vegetables Inc,2021-02-09,CA,Terminated,2021-04-07,16
+67579303b573cb028daaa8f3,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa8f4,2020 W Kennedy Blvd,2020-01-14,Tampa,Class II,United States,33606-1579,Buddy Brew Coffee,2019-12-19,FL,Terminated,2020-05-12,26
+67579303b573cb028daaa8f5,1508 Brook Rd,2021-09-17,Richmond,Class II,United States,23220-2308,"SSPI Mid-Atlantic, Inc",2021-09-10,VA,Terminated,2022-06-14,7
+67579303b573cb028daaa8f6,701 N 3rd Ave Ste C,2024-01-24,Marshalltown,Class I,United States,50158-1828,Lara's Bakery 3 LLC,2023-11-30,IA,Terminated,2024-02-28,55
+67579303b573cb028daaa8f7,184 Suburban Rd,2020-10-22,San Luis Obispo,Class I,United States,93401-7502,Sauer Brands Inc - SLO,2020-10-09,CA,Terminated,2021-02-18,13
+67579303b573cb028daaa8f8,1500 Brooks Ave,2024-02-08,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2024-01-12,NY,Terminated,2024-03-22,27
+67579303b573cb028daaa8f9,7180 Lampson Ave,2024-03-07,Garden Grove,Class I,United States,92841-3914,LQNN Inc.,2024-02-20,CA,Terminated,2024-05-14,16
+67579303b573cb028daaa8fb,4465 State Route 103 S,2024-08-08,Willard,Class I,United States,44890-9220,Wiers Farm Inc,2024-07-11,OH,Terminated,2024-08-23,28
+67579303b573cb028daaa8fc,1660 Suckle Hwy,2021-12-06,Pennsauken,Class II,United States,08110,Puratos Corporation (HQ and Innovation Center),2021-10-29,NJ,Terminated,2023-08-28,38
+67579303b573cb028daaa8fd,310 S Park Dr,2024-06-24,Saint Marys,Class II,United States,45885-9688,Classic Delight LLC,2024-06-10,OH,Terminated,2024-08-12,14
+67579303b573cb028daaa8fe,7970 Summerlin Lakes Dr Ste 101,2024-05-09,Fort Myers,Class I,United States,33907-1855,Belgian Yummies,2024-03-20,FL,Terminated,2024-07-16,50
+67579303b573cb028daaa900,5601 Vantage Drive,2021-10-21,Burleson,Class II,United States,76028,Golden State Foods Corp.,2021-10-07,TX,Terminated,2021-12-03,14
+67579303b573cb028daaa901,800 S 2nd St,2024-04-13,Sunbury,Class II,United States,17801,"Weis Markets, Inc., Ice Cream Division",2024-03-15,PA,Terminated,2024-09-29,29
+67579303b573cb028daaa902,141 Ethel Rd W,2021-06-23,Piscataway,Class II,United States,08854-5928,Clio LLC,2021-05-15,NJ,Terminated,2022-04-14,39
+67579303b573cb028daaa903,1381 Dairy Ln,2020-08-14,Orrville,Class I,United States,44667-2503,Smith Foods Inc.,2020-07-29,OH,Terminated,2021-01-20,16
+67579303b573cb028daaa904,2901 West Bluegrass Blv,2021-07-28,Lehi,Class I,United States,84043,NATURE'S SUNSHINE PRODUCTS,2021-04-12,UT,Terminated,2022-04-05,107
+67579303b573cb028daaa905,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa906,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa907,301 River Rd,2023-05-30,Whately,Class I,United States,01093,"Chang & Son Enterprises, Inc.",2023-05-05,MA,Terminated,2023-09-29,25
+67579303b573cb028daaa908,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa909,22445 Sous Vide Ln,2021-06-25,Sterling,Class II,United States,20166-9382,Cuisine Solutions,2021-06-18,VA,Terminated,2022-03-30,7
+67579303b573cb028daaa90a,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa90c,2118 Centennial Dr,2020-02-04,Gainesville,Class I,United States,30504-5757,"Almark Foods, LLC",2019-12-19,GA,Terminated,2021-09-17,47
+67579303b573cb028daaa90d,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa90e,3158 E Hamilton Ave,2022-10-20,Fresno,Class II,United States,93702-4163,Lyons Magnus LLC,2022-09-23,CA,Terminated,2022-11-18,27
+67579303b573cb028daaa90f,1010 540th St Sw,2021-10-15,Wellman,Class II,United States,52356-9583,Farmers' All Natural Creamery LLC,2021-09-17,IA,Terminated,2021-11-01,28
+67579303b573cb028daaa910,2929 Walker Ave Nw,2023-05-09,Grand Rapids,Class I,United States,49544-6402,Meijer Inc,2023-04-05,MI,Terminated,2023-05-12,34
+67579303b573cb028daaa911,4 New Century Pkwy,2024-06-06,New Century,Class I,United States,66031-1144,Danisco USA Inc.,2024-05-03,KS,Terminated,2024-09-04,34
+67579303b573cb028daaa912,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaa913,5867 Churchman Ave,2023-01-17,Indianapolis,Class II,United States,46203-6012,Klosterman Baking Company,2022-12-18,IN,Terminated,2023-01-24,30
+67579303b573cb028daaa914,3820 Lakeside Ave E,2024-02-05,Cleveland,Class II,United States,44114-3848,Greco Sidari,2024-01-11,OH,Terminated,2024-09-05,25
+67579303b573cb028daaa915,631 N Cluff Ave,2020-12-08,Lodi,Class II,United States,95240-0756,Pacific Coast Producers,2020-11-30,CA,Terminated,2021-02-10,8
+67579303b573cb028daaa916,205 Southbridge St,2022-10-06,Auburn,Class I,United States,01501-2548,"Arcade Industries, Inc.",2022-09-23,MA,Terminated,2023-03-17,13
+67579303b573cb028daaa917,573 S Arthur Ave,2020-02-18,Louisville,Class I,United States,80027-3013,The Honest Stand,2020-01-15,CO,Terminated,2021-09-08,34
+67579303b573cb028daaa919,1500 Brooks Ave,2020-01-21,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-01-09,NY,Terminated,2020-02-27,12
+67579303b573cb028daaa91a,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaa91b,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa91c,306 Northern Ave,2020-11-19,Boston,Class II,United States,02210-2324,John Nagle Co.,2020-11-05,MA,Terminated,2020-12-18,14
+67579303b573cb028daaa91d,201 W Lincoln Ave,2021-12-08,Lititz,Class I,United States,17543-1012,"Cargill Cocoa & Chocolate, Inc.",2021-11-18,PA,Terminated,2022-01-07,20
+67579303b573cb028daaa91e,2155 Kindel Ave,2020-03-12,Cincinnati,Class II,United States,45214-1841,Kaiser Pickles LLC,2020-02-21,OH,Terminated,2020-04-16,20
+67579303b573cb028daaa921,681 Anita St Ste 105-107,2023-11-27,Chula Vista,Class II,United States,91911-4663,California Bread Co.,2023-11-03,CA,Terminated,2024-08-05,24
+67579303b573cb028daaa922,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaa923,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa924,27853 Chardon Rd,2022-04-27,Willoughby Hills,Class I,United States,44092-2703,Produce Packaging Inc,2022-04-14,OH,Terminated,2022-05-04,13
+67579303b573cb028daaa926,5867 Churchman Ave,2023-01-17,Indianapolis,Class II,United States,46203-6012,Klosterman Baking Company,2022-12-18,IN,Terminated,2023-01-24,30
+67579303b573cb028daaa927,882 W 7th St,2023-07-18,Saint Paul,Class I,United States,55102,Rose Street Bread Lab,2023-06-26,MN,Terminated,2023-07-21,22
+67579303b573cb028daaa928,883 S Azusa Ave,2021-06-29,City Of Industry,Class I,United States,91748-1028,Marquis Worldwide Specialty Inc,2021-05-28,CA,Terminated,2021-07-23,32
+67579303b573cb028daaa929,17512 Miles Ave,2024-01-17,Cleveland,Class I,United States,44128-3404,"Herold Salads, Inc.",2023-12-07,OH,Terminated,2024-02-28,41
+67579303b573cb028daaa92a,3819 94th St Sw,2022-01-25,Lakewood,Class II,United States,98499-4419,Han Yang Corp.,2022-01-13,WA,Terminated,2022-03-09,12
+67579303b573cb028daaa92b,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaa92c,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa92d,100 S Olive Ave Ste E,2023-05-01,West Palm Beach,Class I,United States,33401-5505,SALENTO ORGANICS LLC,2023-03-16,FL,Terminated,2023-06-27,46
+67579303b573cb028daaa92e,8151 E Indian Bend Rd,2020-08-07,Scottsdale,Class I,United States,85250-4826,Wellements LLC,2020-07-24,AZ,Terminated,2021-01-22,14
+67579303b573cb028daaa930,121 Spreckels Blvd Bldg 10,2023-07-25,Salinas,Class I,United States,93962,Braga Fresh Foods,2023-07-10,CA,Terminated,2024-09-17,15
+67579303b573cb028daaa933,11585 Courthouse Blvd,2023-12-13,Inver Grove Heights,Class I,United States,55077-5911,"Cut Fruit Express, Inc.",2023-11-24,MN,Terminated,2024-01-11,19
+67579303b573cb028daaa934,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa935,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaa936,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa937,1919 Flowers Cir,2021-12-02,Thomasville,Class II,United States,31757-1137,Flowers Foods (Corporate Offices),2021-10-31,GA,Terminated,2022-12-12,32
+67579303b573cb028daaa938,10110 San Jose Blvd,2023-05-10,Jacksonville,Class II,United States,32257-5838,Windy Hill Chocolate LLC,2023-03-22,FL,Terminated,2023-07-31,49
+67579303b573cb028daaa93a,8690 Kerns St,2022-03-04,San Diego,Class II,United States,92154-6240,El Chavito,2022-02-02,CA,Terminated,2022-06-29,30
+67579303b573cb028daaa93b,26661 Bunert Rd,2020-02-06,Warren,Class I,United States,48089-3650,"Lipari Foods Operating Company, LLC.",2020-01-06,MI,Terminated,2020-08-18,31
+67579303b573cb028daaa93c,Calle De Diego # 488 Altos,2021-06-11,Rio Piedras,Class III,United States,00924,Lopez Gonzalez Santana Corporation,2021-05-25,PR,Terminated,2022-01-20,17
+67579303b573cb028daaa93d,2959 Salinas Hwy,2022-02-08,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2021-12-22,CA,Terminated,2022-03-22,48
+67579303b573cb028daaa93e,4322 Moreland Ave Bldg B,2023-12-19,Conley,Class I,United States,30288-2142,Renaissance Food Group,2023-11-24,GA,Terminated,2024-06-11,25
+67579303b573cb028daaa941,47 Manning Rd,2023-06-05,Billerica,Class II,United States,01821-3925,"Sodexo Operations, LLC",2023-05-08,MA,Terminated,2023-07-06,28
+67579303b573cb028daaa942,475 6th St,2021-09-02,San Francisco,Class II,United States,94103-4706,Mai Cuisine,2021-08-13,CA,Terminated,2021-09-23,20
+67579303b573cb028daaa943,N9083 County Road Ef,2021-11-30,Friesland,Class I,United States,53935,"Alsum Farms & Produce, Inc.",2021-11-02,WI,Terminated,2022-01-13,28
+67579303b573cb028daaa944,3225 Denargo St,2019-12-31,Denver,Class I,United States,80216-5038,"Mrs. Condies Salad Company, Incorporated",2019-12-03,CO,Terminated,2020-01-31,28
+67579303b573cb028daaa945,495 Mitchell Rd,2021-11-04,Chuckey,Class II,United States,37641-6035,Mountain View Bakery,2021-10-19,TN,Terminated,2021-11-23,16
+67579303b573cb028daaa946,201 Apple Blvd,2024-07-02,Woodbine,Class II,United States,51579-1503,"Grato Holdings, Inc.",2024-05-03,IA,Terminated,2024-07-05,60
+67579303b573cb028daaa947,1500 Brooks Ave,2020-01-21,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-01-09,NY,Terminated,2020-02-27,12
+67579303b573cb028daaa948,41 Ethel Rd W,2023-03-02,Piscataway,Class III,United States,08854-5969,Snack Innovations Inc.,2023-01-20,NJ,Terminated,2023-08-09,41
+67579303b573cb028daaa94a,31550 Nw Commercial St,2023-02-17,North Plains,Class II,United States,97133,PILGRIMS ROASTED NUTZ,2023-02-02,OR,Terminated,2023-04-21,15
+67579303b573cb028daaa94b,207 Franklin St,2021-06-18,Center Point,Class II,United States,52213-7601,"Browns Granola Company, LLC",2021-06-02,IA,Terminated,2021-08-12,16
+67579303b573cb028daaa94c,1620 Se 3rd Ave,2021-04-20,Portland,Class III,United States,97214-2159,Jansala & Foods LLC,2021-04-07,OR,Terminated,2021-08-19,13
+67579303b573cb028daaa94e,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa94f,607 Nw Everett Mall Way Suite 9a&B,2022-09-23,Everett,Class III,United States,98028,Alida's Bakery LLC,2022-08-16,WA,Terminated,2022-10-06,38
+67579303b573cb028daaa950,2929 Walker Ave NW,2020-11-10,Grand Rapids,Class I,United States,49544-6402,Meijer Inc./Traffic Dept.,2020-10-05,MI,Terminated,2020-11-12,36
+67579303b573cb028daaa951,1 Tower Ln Ste 600,2021-05-26,Oakbrook Terrace,Class I,United States,60181-4671,SARA LEE FROZEN FOODS,2021-05-07,IL,Terminated,2023-01-24,19
+67579303b573cb028daaa952,200 E Randolph St,2021-12-17,Chicago,Class II,United States,60601-6436,KRAFT HEINZ FOODS COMPANY,2021-11-11,IL,Terminated,2024-09-06,36
+67579303b573cb028daaa953,19039 62nd Ave S,2024-10-16,Kent,Class III,United States,98032,Lemonland Food Corp,2024-09-11,WA,Terminated,2024-11-26,35
+67579303b573cb028daaa954,701 Park Of Commerce Blvd Ste 101,2021-05-04,Boca Raton,Class II,United States,33487-3604,REDCON1 LLC,2021-04-05,FL,Terminated,2021-10-04,29
+67579303b573cb028daaa956,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaa957,770 Cochituate Rd,2022-06-06,Framingham,Class I,United States,01701-4666,"The TJX Companies, Inc.",2022-05-01,MA,Terminated,2023-03-17,36
+67579303b573cb028daaa958,6080 Mcdonough Dr Ste A/B/C/D/F/G,2022-01-11,Norcross,Class I,United States,30093,NutraCap Labs LLC,2021-11-09,GA,Terminated,2024-05-21,63
+67579303b573cb028daaa959,10801 Endeavour Way,2021-12-20,Seminole,Class II,United States,33777-1671,"Cesarina Bakery, Inc",2021-11-24,FL,Terminated,2022-03-16,26
+67579303b573cb028daaa95a,5001 Earle Ave,2024-04-26,Rosemead,Class II,United States,91770-1169,"BF Suma Pharmaceuticals, Inc.",2024-04-18,CA,Terminated,2024-10-09,8
+67579303b573cb028daaa95b,100 Corporate Woods Ste,2023-04-19,Rochester,Class II,United States,14623-1423,NORTERA FOODS USA,2023-03-17,NY,Terminated,2023-06-16,33
+67579303b573cb028daaa95c,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa95d,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa95e,2525 W 7th Pl,2020-08-24,Eugene,Class I,United States,97402-2688,Emerald Fruit & Produce Inc,2020-07-31,OR,Terminated,2020-09-28,24
+67579303b573cb028daaa95f,8928 Prominence Pkwy Rmbldg 200,2021-11-18,Jacksonville,Class I,United States,32256,SOUTHEASTERN GROCERS - MARKETI,2021-11-02,FL,Terminated,2022-03-10,16
+67579303b573cb028daaa960,3300 Publix Corporate Pkwy,2024-01-22,Lakeland,Class I,United States,33811-3311,"Publix Super Markets, Inc.",2023-12-15,FL,Terminated,2024-02-27,38
+67579303b573cb028daaa962,3285 Corporate Vw,2022-03-17,Vista,Class II,United States,92081-8528,"RMJV, LP dba Fresh Creative Foods",2022-03-07,CA,Terminated,2022-05-05,10
+67579303b573cb028daaa963,20 Crossways Park Dr N Ste 100,2023-04-13,Woodbury,Class II,United States,11797-2007,E S Foods,2023-04-03,NY,Terminated,2023-09-27,10
+67579303b573cb028daaa964,18100 Andover Park W,2022-04-08,Tukwila,Class II,United States,98188-4703,Continental Mills (Corporate Office),2022-03-10,WA,Terminated,2023-05-15,29
+67579303b573cb028daaa965,7617 Benbrook Pkwy,2021-12-17,Benbrook,Class III,United States,76126-2102,MOTHERS MILK BANK OF NORTH TEXAS,2021-11-30,TX,Terminated,2022-02-09,17
+67579303b573cb028daaa966,4301 University Way Ne,2023-08-08,Seattle,Class II,United States,98105-5808,"Sweet Alchemy Ice Creamery, Inc",2023-06-30,WA,Terminated,2023-09-11,39
+67579303b573cb028daaa967,2959 Salinas Hwy,2022-02-08,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2021-12-22,CA,Terminated,2022-03-22,48
+67579303b573cb028daaa969,125 Moen St,2021-03-26,Cranford,Class I,United States,07016-3518,Nuts.com,2021-03-15,NJ,Terminated,2022-02-24,11
+67579303b573cb028daaa96a,6 Kimball Ln,2022-11-03,Lynnfield,Class II,United States,01940-2682,HP Hood LLC,2022-10-25,MA,Terminated,2023-03-01,9
+67579303b573cb028daaa96b,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa96c,550 Bowie St,2020-08-07,Austin,Class I,United States,78703-4644,Whole Foods Market,2020-07-24,TX,Terminated,2020-11-03,14
+67579303b573cb028daaa96e,2021 Spring Rd Ste 600,2023-08-30,Oak Brook,Class II,United States,60523-1860,Treehouse Foods,2023-08-15,IL,Terminated,2024-08-19,15
+67579303b573cb028daaa96f,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa970,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa971,3158 N Valley Pike,2021-03-02,Rockingham,Class II,United States,22802-1106,"Shenandoah Growers, Inc.",2021-02-05,VA,Terminated,2022-03-08,25
+67579303b573cb028daaa973,319 S Vine St,2024-02-16,Fostoria,Class II,United States,44830-1843,Mennel Milling Company,2024-01-30,OH,Terminated,2024-03-21,17
+67579303b573cb028daaa974,6085 Claude Way,2022-09-22,Inver Grove Heights,Class II,United States,55076-4432,"Russ Davis Wholesale, LLC",2022-07-29,MN,Terminated,2022-09-23,55
+67579303b573cb028daaa975,11412 Malaga Rd,2021-08-03,Arvin,Class I,United States,93203-9641,"Grimmway Enterprises, Inc. dba Grimmway Farms",2021-07-19,CA,Terminated,2022-02-25,15
+67579303b573cb028daaa976,1500 Brooks Ave,2020-09-15,Rochester,Class I,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-08-21,NY,Terminated,2020-11-03,25
+67579303b573cb028daaa977,2372 W Indian Trl,2022-08-12,Aurora,Class II,United States,60506-1570,FACTOR,2022-07-14,IL,Terminated,2024-08-05,29
+67579303b573cb028daaa978,7078 Shady Oak Rd,2023-07-18,Eden Prairie,Class I,United States,55344-3505,SunOpta Grains and Foods Inc.,2023-06-16,MN,Terminated,2024-02-07,32
+67579303b573cb028daaa97a,4459 W Division St,2020-03-25,Chicago,Class I,United States,60651-1631,"Chicago Indoor Garden, Inc.",2020-03-12,IL,Terminated,2020-05-20,13
+67579303b573cb028daaa97b,646 S Flores St,2020-07-01,San Antonio,Class I,United States,78204-1219,He Butt,2020-06-16,TX,Terminated,2020-08-04,15
+67579303b573cb028daaa97c,26661 Bunert Rd,2020-02-06,Warren,Class I,United States,48089-3650,"Lipari Foods Operating Company, LLC.",2020-01-06,MI,Terminated,2020-08-18,31
+67579303b573cb028daaa97d,11324 Mount Vernon Rd,2021-05-22,Utica,Class I,United States,43080-7703,Velvet Ice Cream Company,2021-04-23,OH,Terminated,2021-07-20,29
+67579303b573cb028daaa97e,1835 E Cheyenne Rd,2021-04-02,Colorado Springs,Class III,United States,80905-2868,New Generation Wellness Inc.,2021-03-08,CO,Terminated,2022-04-22,25
+67579303b573cb028daaa97f,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaa980,2118 Centennial Dr,2020-02-04,Gainesville,Class I,United States,30504-5757,"Almark Foods, LLC",2019-12-19,GA,Terminated,2021-09-17,47
+67579303b573cb028daaa981,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa982,46 Alberigi Dr,2022-11-07,Jessup,Class I,United States,18434-1827,"Bakkavor USA, Inc",2022-10-06,PA,Terminated,2023-03-17,32
+67579303b573cb028daaa983,9650 Railroad Dr Ste A,2021-01-12,El Paso,Class II,United States,79924-5931,SUN VALLEY FOODS LLC,2020-12-21,TX,Terminated,2021-12-06,22
+67579303b573cb028daaa985,"1145 Arroyo Ave, Units B & C",2024-03-15,San Fernando,Class I,United States,91340-1842,Fresh & Ready Foods LLC,2024-02-06,CA,Terminated,2024-04-16,38
+67579303b573cb028daaa987,1037 State St,2020-09-23,Chester,Class II,United States,62233-1657,Gilster-Mary Lee Corp.,2020-09-09,IL,Terminated,2020-12-08,14
+67579303b573cb028daaa988,1251 Argentine Blvd,2022-06-03,Kansas City,Class I,United States,66105-1508,Liberty Fruit Co Inc DBA Carol's Cuts,2022-05-06,KS,Terminated,2022-10-27,28
+67579303b573cb028daaa989,9030 Premier Row,2020-02-06,Dallas,Class II,United States,75247-5406,"National Food & Beverage, Inc",2020-01-06,TX,Terminated,2020-04-09,31
+67579303b573cb028daaa98a,267 Kappa Dr,2020-09-02,Pittsburgh,Class II,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa98b,1919 Flowers Cir,2020-12-21,Thomasville,Class II,United States,31757-1137,Flowers Foods (Corporate Offices),2020-12-02,GA,Terminated,2021-06-22,19
+67579303b573cb028daaa98d,7254 Booker T,2020-11-13,Wirtz,Class II,United States,24184,"Homestead Creamery, Inc.",2020-09-17,VA,Terminated,2022-01-11,57
+67579303b573cb028daaa98f,400 S Date Ave,2023-07-31,Alhambra,Class I,United States,91803-1406,Richin Trading Inc,2023-06-09,CA,Terminated,2023-10-13,52
+67579303b573cb028daaa990,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa991,2222 Ne Oregon St Ste 109,2021-05-21,Portland,Class II,United States,97232-3534,BREW DR KOMBUCHA LLC,2021-04-26,OR,Terminated,2021-10-08,25
+67579303b573cb028daaa992,7251 W Lake Mead Blvd,2021-01-11,Las Vegas,Class I,United States,89128-8351,TESOROS TRADING CO.,2020-12-16,NV,Terminated,2021-01-13,26
+67579303b573cb028daaa993,10171 Chumstick Hwy,2022-01-07,Leavenworth,Class II,United States,98826-8762,"Bosket Bread Company, LLC",2021-12-16,WA,Terminated,2022-01-10,22
+67579303b573cb028daaa994,310 S Park Dr,2024-06-24,Saint Marys,Class II,United States,45885-9688,Classic Delight LLC,2024-06-10,OH,Terminated,2024-08-12,14
+67579303b573cb028daaa995,2900 Easton Square Pl,2023-04-07,Columbus,Class II,United States,43219-6225,Abbott Laboratories,2023-03-28,OH,Terminated,2023-12-14,10
+67579303b573cb028daaa996,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaa997,5569 W. Northwest Highway,2022-03-09,Chicago,Class II,United States,60630,"Chicago Sweet Connections, Inc.",2022-02-25,IL,Terminated,2022-03-18,12
+67579303b573cb028daaa998,240 Commercial St,2022-09-08,Malden,Class II,United States,02148-6780,"Piantedosi Baking Co., Inc.",2022-08-17,MA,Terminated,2022-12-29,22
+67579303b573cb028daaa999,11324 Mount Vernon Rd,2021-05-22,Utica,Class I,United States,43080-7703,Velvet Ice Cream Company,2021-04-23,OH,Terminated,2021-07-20,29
+67579303b573cb028daaa99a,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaa99b,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaa99c,267 Kappa Dr,2020-09-02,Pittsburgh,Class I,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa99d,1 Persnickety Pl,2024-02-29,Plymouth,Class I,United States,53073-3544,"Sargento Foods, Inc.",2024-02-05,WI,Terminated,2024-04-30,24
+67579303b573cb028daaa99e,10205 51st Ave N,2022-06-17,Plymouth,Class I,United States,55442-3206,"Taher, Inc.",2022-05-23,MN,Terminated,2022-07-13,25
+67579303b573cb028daaa99f,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9a0,250 E Park Center Blvd,2023-05-04,Boise,Class III,United States,83726-0020,Albertsons Companies LLC,2023-04-04,ID,Terminated,2023-06-26,30
+67579303b573cb028daaa9a1,7108 N Fresno St Ste 450,2020-10-28,Fresno,Class I,United States,93720-2961,Wawona Packing Co LLC dba Prima Wawona,2020-09-24,CA,Terminated,2021-01-28,34
+67579303b573cb028daaa9a2,936 Long Beach Ave,2024-02-27,Los Angeles,Class II,United States,90021-2317,Chin Jung Corporation,2024-02-16,CA,Terminated,2024-03-22,11
+67579303b573cb028daaa9a3,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9a4,23770 Hall Rd,2023-01-10,Clinton Township,Class II,United States,48036-1275,Sanders Candy LLC dba Second Nature Brands,2022-12-22,MI,Terminated,2024-08-05,19
+67579303b573cb028daaa9a5,18100 Andover Park W,2022-04-08,Tukwila,Class II,United States,98188-4703,Continental Mills (Corporate Office),2022-03-10,WA,Terminated,2023-05-15,29
+67579303b573cb028daaa9a6,4 New Century Pkwy,2024-06-06,New Century,Class I,United States,66031-1144,Danisco USA Inc.,2024-05-03,KS,Terminated,2024-09-04,34
+67579303b573cb028daaa9a7,16400 Trojan Way,2023-05-10,La Mirada,Class II,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2023-03-03,CA,Terminated,2024-05-03,68
+67579303b573cb028daaa9a8,18100 Andover Park W,2022-04-08,Tukwila,Class II,United States,98188-4703,Continental Mills (Corporate Office),2022-03-10,WA,Terminated,2023-05-15,29
+67579303b573cb028daaa9a9,5828 Main St,2020-01-28,Ooltewah,Class I,United States,37363-8714,"Great American Deli, LLC",2019-12-23,TN,Terminated,2020-07-14,36
+67579303b573cb028daaa9aa,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa9ab,10171 Chumstick Hwy,2022-01-07,Leavenworth,Class II,United States,98826-8762,"Bosket Bread Company, LLC",2021-12-16,WA,Terminated,2022-01-10,22
+67579303b573cb028daaa9ac,1014 Vine St,2021-11-10,Cincinnati,Class II,United States,45202-1141,The Kroger Co,2021-10-13,OH,Terminated,2021-11-23,28
+67579303b573cb028daaa9ad,11107 Pacific Hwy Sw,2023-02-02,Lakewood,Class II,United States,98499-4644,Joy Joys Bakery LLC,2023-01-25,WA,Terminated,2023-03-10,8
+67579303b573cb028daaa9af,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaa9b0,206 S Belt Hwy,2023-05-22,Saint Joseph,Class II,United States,64506,Country Cookie LLC.,2023-04-18,MO,Terminated,2023-05-23,34
+67579303b573cb028daaa9b2,1660 Suckle Hwy,2021-12-06,Pennsauken,Class II,United States,08110,Puratos Corporation (HQ and Innovation Center),2021-10-29,NJ,Terminated,2023-08-28,38
+67579303b573cb028daaa9b3,2959 Salinas Hwy,2022-02-08,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2021-12-22,CA,Terminated,2022-03-22,48
+67579303b573cb028daaa9b5,16942 Kinsman Rd,2020-01-15,Middlefield,Class I,United States,44062-9484,Middlefield Original Cheese Coop,2019-11-29,OH,Terminated,2020-07-20,47
+67579303b573cb028daaa9b6,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa9b7,9684 Smith Rd,2021-08-16,Saint Paris,Class I,United States,43072-9353,Old Souls Farms LLC,2021-07-21,OH,Terminated,2021-08-25,26
+67579303b573cb028daaa9b9,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9bb,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9bc,412 Armada Rd S,2022-05-20,Venice,Class II,United States,34285-2564,First & Ten LLC,2022-05-05,FL,Terminated,2022-06-24,15
+67579303b573cb028daaa9bd,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9be,3411 Vt Rte 16,2022-08-29,East Hardwick,Class I,United States,05836-9630,Kingdom Creamery of Vermont LLC,2022-07-29,VT,Terminated,2023-03-17,31
+67579303b573cb028daaa9bf,6080 Mcdonough Dr Ste A/B/C/D/F/G,2022-01-11,Norcross,Class I,United States,30093,NutraCap Labs LLC,2021-11-09,GA,Terminated,2024-05-21,63
+67579303b573cb028daaa9c1,3285 Corporate Vw,2022-03-17,Vista,Class II,United States,92081-8528,"RMJV, LP dba Fresh Creative Foods",2022-03-07,CA,Terminated,2022-05-05,10
+67579303b573cb028daaa9c2,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaa9c3,16400 Trojan Way,2023-02-22,La Mirada,Class I,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2023-02-03,CA,Terminated,2023-12-08,19
+67579303b573cb028daaa9c4,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa9c5,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9c6,3255 Production Ct,2022-06-03,Zeeland,Class II,United States,49464-8581,"Craftology, LLC DBA Dutch Treat Foods",2022-05-20,MI,Terminated,2023-01-26,14
+67579303b573cb028daaa9c7,607-609 Main St,2021-03-19,Paterson,Class I,United States,07503-3096,"El Abuelito Cheese, Inc.",2021-02-17,NJ,Terminated,2024-04-26,30
+67579303b573cb028daaa9c8,12407 Mukilteo Speedway Bldg B Ste 245,2022-06-06,Lynnwood,Class II,United States,98087-1518,Power Selles Imports dba Culinary Collective,2022-04-29,WA,Terminated,2022-09-07,38
+67579303b573cb028daaa9c9,6899 Ne 4th Ave,2023-12-08,Miami,Class II,United States,33138-5516,LGNDS LLC,2023-10-13,FL,Terminated,2024-01-25,56
+67579303b573cb028daaa9ca,1051 Pacific Ave,2023-11-08,Oxnard,Class I,United States,93030-7254,"Gills Onions, LLC",2023-10-23,CA,Terminated,2024-09-20,16
+67579303b573cb028daaa9cb,3158 E Hamilton Ave,2022-10-20,Fresno,Class II,United States,93702-4163,Lyons Magnus LLC,2022-09-23,CA,Terminated,2022-11-18,27
+67579303b573cb028daaa9cc,2301 E 7th St Ste C200,2023-12-13,Los Angeles,Class I,United States,90023-1041,"PACIFIC TRELLIS FRUIT, LLC",2023-11-24,CA,Terminated,2024-09-13,19
+67579303b573cb028daaa9ce,4917 State Route 515,2022-06-02,Walnut Creek,Class I,United States,44687,Walnut Creek Chocolate Co Inc,2022-05-23,OH,Terminated,2022-07-19,10
+67579303b573cb028daaa9cf,2959 Salinas Hwy,2023-01-10,Monterey,Class III,United States,93940-6400,Dole Fresh Vegetables Inc,2022-11-28,CA,Terminated,2023-01-17,43
+67579303b573cb028daaa9d0,301 Salem Rd,2022-08-19,Jeffersonville,Class II,United States,47130,"Enjoy Life Natural Brands, LLC",2022-06-30,IN,Terminated,2024-08-02,50
+67579303b573cb028daaa9d1,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa9d2,5403 S Central Ave,2020-05-06,Phoenix,Class II,United States,85040-3050,"La Sonorense, Inc.",2020-04-20,AZ,Terminated,2022-06-02,16
+67579303b573cb028daaa9d3,25 Myers Rd,2020-01-31,Wallkill,Class I,United States,12589-3516,CATSMO LLC,2019-12-10,NY,Terminated,2020-03-25,52
+67579303b573cb028daaa9d5,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaa9d6,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9d7,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9da,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaa9db,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa9dc,200 Broadhollow Rd,2022-06-24,Melville,Class I,United States,11747-4846,Fudgeamentals LLC,2022-05-24,NY,Terminated,2022-10-27,31
+67579303b573cb028daaa9dd,5051 Speaker Rd,2021-04-02,Kansas City,Class II,United States,66106-1043,Tippins,2021-03-10,KS,Terminated,2021-05-10,23
+67579303b573cb028daaa9de,18251 Cascade Ave S,2023-08-14,Tukwila,Class III,United States,98188-4700,Dilettante Chocolates Inc,2023-07-06,WA,Terminated,2023-09-29,39
+67579303b573cb028daaa9df,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9e0,1808 Jefferson St,2022-06-15,Bluefield,Class I,United States,24701-4066,"Deskins Wholesale, LLC",2022-05-22,WV,Terminated,2023-09-19,24
+67579303b573cb028daaa9e1,735 W Beach St,2023-01-10,Watsonville,Class II,United States,95076-5141,S Martinelli & Company,2022-12-29,CA,Terminated,2023-03-22,12
+67579303b573cb028daaa9e2,267 Kappa Dr,2020-09-02,Pittsburgh,Class II,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaa9e3,1912 Montreal Rd,2021-05-25,Tucker,Class II,United States,30084-5201,Brill Inc,2021-04-27,GA,Terminated,2022-01-11,28
+67579303b573cb028daaa9e4,5325 S Soto St,2022-05-03,Vernon,Class I,United States,90058-3624,World Variety Produce Inc dba Melissa's,2022-04-18,CA,Completed,2022-06-15,15
+67579303b573cb028daaa9e6,8609 Westwood Center Dr Ste 110,2022-02-23,Tysons Corner,Class II,United States,22182-7525,"Naomi Whittel Brands, LLC",2022-01-26,VA,Terminated,2022-07-12,28
+67579303b573cb028daaa9e7,344 Fee Fee Rd,2022-10-21,Maryland Heights,Class II,United States,63043-3214,Tomoorona LLC,2022-06-09,MO,Terminated,2024-04-25,134
+67579303b573cb028daaa9e8,26661 Bunert Rd,2020-02-06,Warren,Class I,United States,48089-3650,"Lipari Foods Operating Company, LLC.",2020-01-06,MI,Terminated,2020-08-18,31
+67579303b573cb028daaa9e9,320 Wine Country Rd,2023-03-08,Prosser,Class I,United States,99350-9797,Chukar Cherry Company Inc.,2023-02-21,WA,Terminated,2023-04-14,15
+67579303b573cb028daaa9ec,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa9ed,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa9ef,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaa9f0,128 Norman Ave,2023-06-22,Brooklyn,Class II,United States,11222-3382,"Julian's Recipe, LLC",2023-06-01,NY,Terminated,2024-06-14,21
+67579303b573cb028daaa9f1,1996 S Geiger Blvd,2020-09-28,Spokane,Class I,United States,99224-5411,"Spokane Produce, Inc.",2020-08-03,WA,Terminated,2020-10-08,56
+67579303b573cb028daaa9f2,705 Main St,2024-03-29,Auburndale,Class II,United States,33823-4425,THE COCA-COLA COMPANY,2024-02-27,FL,Terminated,2024-06-27,31
+67579303b573cb028daaa9f3,2950 Grace Ln,2024-03-27,Costa Mesa,Class II,United States,92626-4169,"NRS Enterprises, Inc. dba Sunflour Bakery",2024-03-08,CA,Terminated,2024-08-21,19
+67579303b573cb028daaa9f4,5403 S Central Ave,2020-06-05,Phoenix,Class II,United States,85040-3050,"La Sonorense, Inc.",2020-05-20,AZ,Terminated,2022-07-28,16
+67579303b573cb028daaa9f5,25 Orinda Way Ste 101,2024-03-28,Orinda,Class II,United States,94563-4402,Otis McAllister,2024-03-06,CA,Terminated,2024-06-05,22
+67579303b573cb028daaa9f6,16400 Trojan Way,2023-03-17,La Mirada,Class II,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2023-02-10,CA,Terminated,2024-05-03,35
+67579303b573cb028daaa9f8,1486 Kleppe Ln,2021-09-01,Sparks,Class II,United States,89431-6428,Able Groupe Inc,2021-08-08,NV,Terminated,2021-09-08,24
+67579303b573cb028daaa9f9,15407 McGinty Rd W,2023-05-01,Wayzata,Class II,United States,55391-2365,"Cargill, Inc         Corporate Headquarters",2023-03-30,MN,Terminated,2023-06-08,32
+67579303b573cb028daaa9fa,1996 S Geiger Blvd,2020-09-28,Spokane,Class I,United States,99224-5411,"Spokane Produce, Inc.",2020-08-03,WA,Terminated,2020-10-08,56
+67579303b573cb028daaa9fb,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaa9fc,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaa9fd,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaa9fe,7701 Legacy Dr,2020-09-18,Plano,Class I,United States,75024-4099,"Frito-Lay, Inc.",2020-08-24,TX,Terminated,2021-01-20,25
+67579303b573cb028daaa9ff,6085 Claude Way,2022-09-22,Inver Grove Heights,Class II,United States,55076-4432,"Russ Davis Wholesale, LLC",2022-07-29,MN,Terminated,2022-09-23,55
+67579303b573cb028daaaa00,1800 W Holt Ave,2021-04-26,Pomona,Class II,United States,91768-3303,"Torn & Glasser, Inc.",2021-04-13,CA,Terminated,2021-09-21,13
+67579303b573cb028daaaa01,3909 Kok Rd,2021-10-12,Willard,Class II,United States,44890-9700,Buurma Farms Inc,2021-09-13,OH,Terminated,2021-10-18,29
+67579303b573cb028daaaa02,3500 Lacey Rd,2021-02-11,Downers Grove,Class II,United States,60515-5422,"Glanbia Performance Nutrition (Manufacturing), Inc",2021-01-28,IL,Terminated,2021-08-20,14
+67579303b573cb028daaaa03,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa04,4140 W Fullerton Ave,2021-05-18,Chicago,Class II,United States,60639-2106,Newly Weds Foods Inc,2021-04-27,IL,Terminated,2022-02-09,21
+67579303b573cb028daaaa05,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaaa06,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaaa07,30875 Interstate 10 W Bldg A Unit 203,2021-04-29,Boerne,Class II,United States,78006-9278,Backcountry Mills LLC,2021-04-12,TX,Terminated,2021-07-02,17
+67579303b573cb028daaaa08,41 Natcon Dr,2021-08-03,Shirley,Class II,United States,11967-4700,GIVE AND GO PREPARED FOODS (USA),2021-07-17,NY,Terminated,2022-05-19,17
+67579303b573cb028daaaa0a,114 Lesher Rd,2022-09-26,Newburg,Class I,United States,17240-9300,Keswick Creamery at Carrock Farms LLC,2022-08-25,PA,Terminated,2022-11-03,32
+67579303b573cb028daaaa0c,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaaa13,301 Parkview Rd,2023-06-05,Hazle Township,Class I,United States,18202-9723,"Gonnella Frozen Products, LLC",2023-05-15,PA,Terminated,2024-09-17,21
+67579303b573cb028daaaa14,1 Strawberry Ln,2022-06-01,Orrville,Class I,United States,44667-1241,The JM Smucker Company LLC,2022-05-20,OH,Terminated,2023-03-17,12
+67579303b573cb028daaaa15,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa16,7 Corporate Dr,2023-08-25,Keene,Class II,United States,03431-5042,C & S Wholesale Grocers Inc.,2023-07-19,NH,Terminated,2023-09-27,37
+67579303b573cb028daaaa17,3744 Staunton Rd,2020-12-07,Edwardsville,Class I,United States,62025-6936,PRAIRIE FARMS,2020-11-23,IL,Terminated,2020-12-23,14
+67579303b573cb028daaaa18,18 J M Tatum Industrial Dr,2024-08-06,Hattiesburg,Class III,United States,39401-8341,"Frozen Food Processors, Inc.",2024-07-22,MS,Terminated,2024-10-10,15
+67579303b573cb028daaaa19,16150 Stephens St,2021-04-21,City Of Industry,Class II,United States,91745-1718,Snak King Corporation,2021-04-13,CA,Terminated,2021-05-13,8
+67579303b573cb028daaaa1a,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa1b,2900 Easton Square Pl,2022-11-16,Columbus,Class II,United States,43219-6225,Abbott Laboratories,2022-10-13,OH,Terminated,2024-08-14,34
+67579303b573cb028daaaa1d,11324 Mount Vernon Rd,2021-05-22,Utica,Class I,United States,43080-7703,Velvet Ice Cream Company,2021-04-23,OH,Terminated,2021-07-20,29
+67579303b573cb028daaaa1e,6058 Se Federal Hwy,2022-03-04,Stuart,Class II,United States,34997-8101,"Edible Spirits, Inc",2022-02-23,FL,Terminated,2022-04-12,9
+67579303b573cb028daaaa1f,19161 Harborgate Way,2022-09-02,Torrance,Class II,United States,90501-1316,King's Hawaiian Bakery,2022-08-12,CA,Terminated,2023-10-12,21
+67579303b573cb028daaaa20,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa22,1500 Brooks Ave,2020-09-15,Rochester,Class I,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-08-21,NY,Terminated,2020-11-03,25
+67579303b573cb028daaaa23,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaaa24,8110 Saint Louis Ave,2024-04-08,Skokie,Class II,United States,60076-2925,RAJA FOODS LLC,2024-03-07,IL,Terminated,2024-07-22,32
+67579303b573cb028daaaa25,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa27,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaaa28,4900 Oak St,2023-03-20,Kansas City,Class II,United States,64112-2702,Russell Stover Candies Inc,2023-02-28,MO,Terminated,2023-08-22,20
+67579303b573cb028daaaa29,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa2a,2325 1/2 Nw Market St,2023-02-16,Seattle,Class II,United States,98107,"Amlag & Quibuyen, LLC dba Hood Famous Bake Shop",2023-01-25,WA,Terminated,2023-05-22,22
+67579303b573cb028daaaa2b,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa2c,2715 W 15th St,2021-06-24,Brooklyn,Class I,United States,11224-2705,Banner Smoked Fish Inc.,2021-06-01,NY,Terminated,2021-11-16,23
+67579303b573cb028daaaa2d,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaaa2e,1105 W Olympic Blvd,2020-04-08,Montebello,Class I,United States,90640,Hong Bin Foods LLC,2020-03-06,CA,Terminated,2020-04-13,33
+67579303b573cb028daaaa2f,12254 Sw 131st Ave Unit 2,2023-05-11,Miami,Class II,United States,33186-6482,Borris Brothers,2023-04-13,FL,Terminated,2023-06-22,28
+67579303b573cb028daaaa31,1051 Pacific Ave,2023-11-08,Oxnard,Class I,United States,93030-7254,"Gills Onions, LLC",2023-10-23,CA,Terminated,2024-09-20,16
+67579303b573cb028daaaa32,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaaa33,6080 Mcdonough Dr Ste A/B/C/D/F/G,2022-01-11,Norcross,Class I,United States,30093,NutraCap Labs LLC,2021-11-09,GA,Terminated,2024-05-21,63
+67579303b573cb028daaaa35,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa36,3614 15th Ave,2023-08-28,Brooklyn,Class I,United States,11218-4402,"Real Kosher Ice Cream, Inc.",2023-08-08,NY,Terminated,2024-06-14,20
+67579303b573cb028daaaa38,23770 Hall Rd,2023-01-10,Clinton Township,Class II,United States,48036-1275,Sanders Candy LLC dba Second Nature Brands,2022-12-22,MI,Terminated,2024-08-05,19
+67579303b573cb028daaaa39,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa3a,72 Hook Rd,2022-09-30,Bayonne,Class I,United States,07002-5007,Kenover Marketing Corp.,2022-08-23,NJ,Terminated,2023-05-12,38
+67579303b573cb028daaaa3b,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa3c,141 Ethel Rd W,2021-06-23,Piscataway,Class II,United States,08854-5928,Clio LLC,2021-05-15,NJ,Terminated,2022-04-14,39
+67579303b573cb028daaaa3d,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa3f,11100 Mccormick Rd,2024-05-02,Hunt Valley,Class II,United States,21031-1107,"McCormick & Company,  Inc.- Consumer Product Division",2024-03-18,MD,Terminated,2024-05-13,45
+67579303b573cb028daaaa41,6239 Bandini Blvd,2021-05-06,Commerce,Class I,United States,90040-3113,Forest Mushroom Food Inc.,2021-04-20,CA,Terminated,2022-02-18,16
+67579303b573cb028daaaa42,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaaa44,2601 River Rd,2022-05-19,Conestoga,Class II,United States,17516-9327,"Turkey Hill, LLC",2022-04-18,PA,Terminated,2022-11-02,31
+67579303b573cb028daaaa45,100 Bridge St,2022-09-09,East Windsor,Class I,United States,06088-9585,EZ Noble Sushi,2022-08-11,CT,Terminated,2022-11-03,29
+67579303b573cb028daaaa46,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaaa47,101 Kappa Dr,2022-04-13,Pittsburgh,Class I,United States,15238-2809,"Giant Eagle, Inc.",2022-03-29,PA,Terminated,2022-04-15,15
+67579303b573cb028daaaa49,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa4a,1500 Brooks Ave,2020-01-21,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-01-09,NY,Terminated,2020-02-27,12
+67579303b573cb028daaaa4b,1996 S Geiger Blvd,2020-09-28,Spokane,Class I,United States,99224-5411,"Spokane Produce, Inc.",2020-08-03,WA,Terminated,2020-10-08,56
+67579303b573cb028daaaa4c,175 Railroad Ave,2020-07-01,Ridgefield,Class II,United States,07657-2312,"Toufayan Bakery, Inc.",2020-06-03,NJ,Terminated,2020-09-10,28
+67579303b573cb028daaaa4e,201 Apple Blvd,2024-07-02,Woodbine,Class II,United States,51579-1503,"Grato Holdings, Inc.",2024-05-03,IA,Terminated,2024-07-05,60
+67579303b573cb028daaaa4f,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaaa50,1001 Lower Landing Rd Ste 302 Ste 9,2023-01-19,Blackwood,Class II,United States,08012-3124,"Caesar's Pasta, LLC",2022-12-29,NJ,Terminated,2023-07-13,21
+67579303b573cb028daaaa51,400 Saginaw Dr,2023-04-10,Redwood City,Class II,United States,94063-4749,Impossible Foods Inc,2023-03-16,CA,Terminated,2023-07-11,25
+67579303b573cb028daaaa52,100 Lincoln Way E,2024-04-18,Massillon,Class II,United States,44646-6634,"Shearer's Foods, LLC",2024-03-21,OH,Terminated,2024-07-22,28
+67579303b573cb028daaaa53,2500 Buttermilk Rd W,2020-02-04,Lenoir City,Class I,United States,37771-3347,The H.T. Hackney Co. LLC,2019-12-24,TN,Terminated,2020-06-08,42
+67579303b573cb028daaaa54,2031 Tyler St,2023-08-14,Hollywood,Class II,United States,33020-4518,Daily Meals Corp,2023-07-14,FL,Terminated,2024-01-10,31
+67579303b573cb028daaaa55,4 New Century Pkwy,2024-06-06,New Century,Class I,United States,66031-1144,Danisco USA Inc.,2024-05-03,KS,Terminated,2024-09-04,34
+67579303b573cb028daaaa56,100 Purity Dr Ste 300,2023-03-15,Lebanon,Class II,United States,46052-8359,Catalina Snacks,2023-02-15,IN,Terminated,2023-06-30,28
+67579303b573cb028daaaa57,25797 Conifer Rd Unit B102,2020-02-14,Conifer,Class II,United States,80433-9053,"Green Water, LLC",2019-10-24,CO,Terminated,2021-06-07,113
+67579303b573cb028daaaa58,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaaa59,325 W 38th St Rm 401,2021-05-20,New York,Class II,United States,10018-9663,Agri Exim INC.,2021-05-06,NY,Terminated,2022-04-05,14
+67579303b573cb028daaaa5a,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaaa5b,4757 The Grove Dr,2020-08-04,Windermere,Class II,United States,34786-8426,Fresh Express Incorporated,2020-06-19,FL,Terminated,2020-12-16,46
+67579303b573cb028daaaa5c,9601 Overseas Hwy,2023-11-17,Marathon,Class I,United States,33050-3344,Paradise Flavors LLC,2023-09-27,FL,Terminated,2024-01-25,51
+67579303b573cb028daaaa5d,3158 E Hamilton Ave,2022-10-20,Fresno,Class II,United States,93702-4163,Lyons Magnus LLC,2022-09-23,CA,Terminated,2022-11-18,27
+67579303b573cb028daaaa5e,4403 Table Mountain Dr,2020-04-02,Golden,Class II,United States,80403-1636,"Vitamin Cottage Natural Food Markets, Inc.",2020-02-19,CO,Terminated,2020-12-11,43
+67579303b573cb028daaaa5f,1390 Enclave Pkwy,2021-11-17,Houston,Class I,United States,77077-2025,Sysco Merchandising and Supply,2021-10-21,TX,Terminated,2022-02-28,27
+67579303b573cb028daaaa60,6058 Se Federal Hwy,2022-03-04,Stuart,Class II,United States,34997-8101,"Edible Spirits, Inc",2022-02-23,FL,Terminated,2022-04-12,9
+67579303b573cb028daaaa61,458 SW 3rd Ave,2020-02-05,Ontario,Class II,United States,97914-2619,Tres Coronas Bakery,2020-01-17,OR,Terminated,2020-02-05,19
+67579303b573cb028daaaa62,4363 State Route #104,2021-12-02,Williamson,Class II,United States,14589,MOTTS LLP,2021-11-17,NY,Terminated,2022-03-05,15
+67579303b573cb028daaaa64,601 N Lamar Blvd Ste 300,2021-10-19,Austin,Class I,United States,78703-5424,"Whole Foods Market Brand 365, Llc",2021-09-22,TX,Terminated,2021-12-08,27
+67579303b573cb028daaaa65,18251 Cascade Ave S,2023-08-14,Tukwila,Class III,United States,98188-4700,Dilettante Chocolates Inc,2023-07-06,WA,Terminated,2023-09-29,39
+67579303b573cb028daaaa66,3101 W Jackson St,2020-08-18,Phoenix,Class III,United States,85009-4833,"La Canasta Mexican Food Products, Inc.",2020-08-06,AZ,Terminated,2021-04-06,12
+67579303b573cb028daaaa67,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaaa68,230 Sunshine Rd SE,2021-11-17,Deming,Class I,United States,88030-9358,KEELER FAMILY FARMS,2021-10-22,NM,Terminated,2022-08-02,26
+67579303b573cb028daaaa69,14583 S Ave,2021-11-04,Woodward,Class II,United States,50276-6043,Picket Fence Creamery L.L.C.,2021-09-15,IA,Terminated,2021-11-18,50
+67579303b573cb028daaaa6a,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa6c,2 Stonewall Ln,2023-08-28,York,Class I,United States,03909-1662,"Stonewall Kitchen, LLC",2023-08-14,ME,Terminated,2023-12-08,14
+67579303b573cb028daaaa6d,1996 S Geiger Blvd,2020-09-28,Spokane,Class II,United States,99224-5411,"Spokane Produce, Inc.",2020-08-03,WA,Terminated,2020-10-08,56
+67579303b573cb028daaaa6e,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaaa6f,530 S 65th St,2021-10-29,Kansas City,Class II,United States,66111-2324,"Kansas City LLC., DBA Best Harvest Bakeries",2021-08-13,KS,Terminated,2021-11-10,77
+67579303b573cb028daaaa70,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaaa71,3764 Hegan Ln,2023-10-12,Chico,Class II,United States,95928-9527,Maisie Jane's California Sunshine Products Inc.,2023-10-02,CA,Terminated,2024-09-10,10
+67579303b573cb028daaaa72,10942 Klingerman St Ste B,2022-11-08,El Monte,Class I,United States,91733-2712,DA CHENG VEGETARIAN FOOD INC.,2022-10-14,CA,Terminated,2023-01-24,25
+67579303b573cb028daaaa73,1369 New York Ave Ne,2022-01-12,Washington,Class II,United States,20002-1620,SWAP FOODS LLC,2022-01-03,DC,Terminated,2022-12-13,9
+67579303b573cb028daaaa74,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa75,400 N Washington St,2024-06-04,Green Bay,Class II,United States,54301-5111,Schreiber Foods Inc,2024-05-03,WI,Terminated,2024-08-08,32
+67579303b573cb028daaaa77,2020 Janice Ave,2021-11-08,Melrose Park,Class II,United States,60160-1011,E-Z Spuds Inc,2021-10-21,IL,Terminated,2023-01-27,18
+67579303b573cb028daaaa78,1005 N Cockrell Hill Rd,2021-11-18,Dallas,Class I,United States,75211-1318,"Hardies Fruit & Vegetable Co., LP",2021-10-21,TX,Terminated,2022-06-24,28
+67579303b573cb028daaaa7a,1975 E 61st St,2020-09-30,Cleveland,Class II,United States,44103-3810,EAGLE FAMILY FOODS GROUP LLC,2020-08-28,OH,Terminated,2020-11-24,33
+67579303b573cb028daaaa7c,2118 Centennial Dr,2020-02-04,Gainesville,Class I,United States,30504-5757,"Almark Foods, LLC",2019-12-19,GA,Terminated,2021-09-17,47
+67579303b573cb028daaaa7d,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaa7e,5001 Earle Ave,2024-04-26,Rosemead,Class II,United States,91770-1169,"BF Suma Pharmaceuticals, Inc.",2024-04-18,CA,Terminated,2024-10-09,8
+67579303b573cb028daaaa7f,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaaa81,1400 W 2700 N,2020-02-19,Pleasant View,Class II,United States,84404-1260,CSM Bakery Products,2020-02-11,UT,Terminated,2020-12-23,8
+67579303b573cb028daaaa82,800 S 40th St,2024-06-06,Springdale,Class II,United States,72762-4826,Rise Baking Company dba South Coast Baking,2024-05-02,AR,Terminated,2024-11-15,35
+67579303b573cb028daaaa83,8500 Bluewater Rd NW,2023-09-22,Albuquerque,Class II,United States,87121-1958,"Vitality Works, Inc",2023-08-22,NM,Terminated,2023-11-13,31
+67579303b573cb028daaaa84,11324 Mount Vernon Rd,2021-05-22,Utica,Class I,United States,43080-7703,Velvet Ice Cream Company,2021-04-23,OH,Terminated,2021-07-20,29
+67579303b573cb028daaaa85,11324 Mount Vernon Rd,2021-05-22,Utica,Class I,United States,43080-7703,Velvet Ice Cream Company,2021-04-23,OH,Terminated,2021-07-20,29
+67579303b573cb028daaaa89,2033 Thomerson Park Rd,2024-08-02,Austin,Class I,United States,42123-6709,Kenny's Farmhouse Cheese,2024-07-17,KY,Terminated,2024-09-05,16
+67579303b573cb028daaaa8a,900 W Highway 495,2021-11-17,San Juan,Class I,United States,78589,JF Palmer & Sons Produce,2021-10-24,TX,Terminated,2022-02-08,24
+67579303b573cb028daaaa8d,4000 Amnicola Hwy,2022-04-06,Chattanooga,Class II,United States,37406-1007,"Chattanooga Coca Cola Bottling Company dba United Packers, Inc.",2022-03-04,TN,Terminated,2022-04-12,33
+67579303b573cb028daaaa8e,2900 Easton Square Pl,2022-11-16,Columbus,Class II,United States,43219-6225,Abbott Laboratories,2022-10-13,OH,Terminated,2024-08-14,34
+67579303b573cb028daaaa90,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaaa92,319 S Vine St,2024-02-16,Fostoria,Class II,United States,44830-1843,Mennel Milling Company,2024-01-30,OH,Terminated,2024-03-21,17
+67579303b573cb028daaaa93,4660 Ridge Dr NE,2022-10-14,Salem,Class I,United States,97301-6993,Momyer Distributors Inc,2022-09-27,OR,Terminated,2023-06-15,17
+67579303b573cb028daaaa95,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaaa96,508 Time Saver Ave,2023-08-21,New Orleans,Class I,United States,70123-3133,"Freshy Foods, LLC",2023-06-29,LA,Terminated,2024-07-05,53
+67579303b573cb028daaaa97,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaaa98,1807 W Slaughter Ln,2020-06-12,Austin,Class II,United States,78748-6230,Zilks Foods,2020-05-05,TX,Terminated,2020-10-08,38
+67579303b573cb028daaaa99,5 Crosby St # 3,2020-09-17,New York,Class II,United States,10013-3154,Blue Apron Inc,2020-08-01,NY,Terminated,2020-10-21,47
+67579303b573cb028daaaa9b,23770 Hall Rd,2023-01-10,Clinton Township,Class II,United States,48036-1275,Sanders Candy LLC dba Second Nature Brands,2022-12-22,MI,Terminated,2024-08-05,19
+67579303b573cb028daaaa9c,1975 E 61st St,2020-09-30,Cleveland,Class II,United States,44103-3810,EAGLE FAMILY FOODS GROUP LLC,2020-08-28,OH,Terminated,2020-11-24,33
+67579303b573cb028daaaa9d,201 S Hill Dr,2023-10-17,Brisbane,Class I,United States,94005-1204,"Sheng Kee of California, Inc dba Sheng Kee Bakery",2023-09-01,CA,Terminated,2024-03-12,46
+67579303b573cb028daaaa9e,2902 Blankenbaker Rd,2020-03-06,Louisville,Class II,United States,40299-3841,Tova Industries Inc,2020-02-24,KY,Terminated,2021-04-12,11
+67579303b573cb028daaaa9f,41 Natcon Dr,2021-08-03,Shirley,Class II,United States,11967-4700,GIVE AND GO PREPARED FOODS (USA),2021-07-17,NY,Terminated,2022-05-19,17
+67579303b573cb028daaaaa0,1486 Kleppe Ln,2021-09-01,Sparks,Class II,United States,89431-6428,Able Groupe Inc,2021-08-08,NV,Terminated,2021-09-08,24
+67579303b573cb028daaaaa1,262 E Main St,2022-07-19,Lovell,Class II,United States,82431-2102,"Queen Bee Gardens, LLC",2022-04-28,WY,Terminated,2023-01-17,82
+67579303b573cb028daaaaa2,17512 Miles Ave,2024-01-17,Cleveland,Class I,United States,44128-3404,"Herold Salads, Inc.",2023-12-07,OH,Terminated,2024-02-28,41
+67579303b573cb028daaaaa3,2213 Carmack Blvd,2024-08-23,Columbia,Class II,United States,38401-4412,La Superior Bakery,2024-07-29,TN,Terminated,2024-08-26,25
+67579303b573cb028daaaaa4,6226 Industrial Way,2021-08-18,Livermore,Class I,United States,94551-9280,"DSD Merchandisers, Inc.",2021-08-04,CA,Terminated,2021-09-03,14
+67579303b573cb028daaaaa5,2200 Bleecker St,2024-01-25,Utica,Class II,United States,13501-1739,"DeIorio Foods, Inc.",2024-01-05,NY,Terminated,2024-07-03,20
+67579303b573cb028daaaaa6,4465 State Route 103 S,2024-08-08,Willard,Class I,United States,44890-9220,Wiers Farm Inc,2024-07-11,OH,Terminated,2024-08-23,28
+67579303b573cb028daaaaa7,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaaaa8,3609 Boston Rd,2020-09-15,Bronx,Class II,United States,10466-5810,Sundial Herbal Products,2020-06-30,NY,Terminated,2022-10-26,77
+67579303b573cb028daaaaa9,796 29 3/4 Ave,2021-02-17,Barronett,Class II,United States,54813-9470,Barron County Organics,2021-02-03,WI,Terminated,2021-06-09,14
+67579303b573cb028daaaaaa,1660 Suckle Hwy,2021-12-06,Pennsauken,Class II,United States,08110,Puratos Corporation (HQ and Innovation Center),2021-10-29,NJ,Terminated,2023-08-28,38
+67579303b573cb028daaaaab,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaaac,15900 Sabra Way,2021-04-02,South Chesterfield,Class I,United States,23834-5935,"Sabra Dipping Company, LLC",2021-03-26,VA,Terminated,2021-05-27,7
+67579303b573cb028daaaaad,920 Avenue R Ste 100,2020-11-05,Grand Prairie,Class I,United States,75050-1528,Country Fresh Inc.,2020-10-01,TX,Terminated,2020-12-16,35
+67579303b573cb028daaaab0,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaaab2,21411 Prairie St,2021-05-06,Chatsworth,Class II,United States,91311-5829,"Natrol, LLC",2021-04-08,CA,Terminated,2021-09-20,28
+67579303b573cb028daaaab3,16400 Trojan Way,2023-02-27,La Mirada,Class I,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2023-01-30,CA,Terminated,2023-06-27,28
+67579303b573cb028daaaab4,6085 Claude Way,2022-09-22,Inver Grove Heights,Class II,United States,55076-4432,"Russ Davis Wholesale, LLC",2022-07-29,MN,Terminated,2022-09-23,55
+67579303b573cb028daaaab5,3225 25th St Se,2020-02-25,Salem,Class I,United States,97302,PNW Veg Co LLC,2020-02-07,OR,Terminated,2020-03-30,18
+67579303b573cb028daaaab6,38 Gwynns Mill Ct,2024-08-01,Owings Mills,Class II,United States,21117-3512,"Totally Cool, Inc.",2024-06-13,MD,Terminated,2024-10-08,49
+67579303b573cb028daaaab7,1457 Nelson St,2021-07-01,Lakewood,Class I,United States,80215-4560,"Interstate Food Products, LLC",2021-05-20,CO,Terminated,2022-03-11,42
+67579303b573cb028daaaab8,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaaab9,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaaaba,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaabb,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaabc,8550 W Bryn Mawr Ave,2023-07-05,Chicago,Class I,United States,60631-3222,"Newly Weds Foods, Inc.",2023-05-26,IL,Terminated,2024-07-23,40
+67579303b573cb028daaaabd,9601 Overseas Hwy,2023-11-17,Marathon,Class I,United States,33050-3344,Paradise Flavors LLC,2023-09-27,FL,Terminated,2024-01-25,51
+67579303b573cb028daaaabe,16400 Trojan Way,2023-03-17,La Mirada,Class I,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2023-02-10,CA,Terminated,2024-05-03,35
+67579303b573cb028daaaabf,1703 Nw 16th Ave Ste B,2022-05-20,Portland,Class I,United States,97209-2505,Joonsung Trading Inc,2022-04-14,OR,Terminated,2022-06-14,36
+67579303b573cb028daaaac0,18251 Cascade Ave S,2023-08-14,Tukwila,Class III,United States,98188-4700,Dilettante Chocolates Inc,2023-07-06,WA,Terminated,2023-09-29,39
+67579303b573cb028daaaac1,1812 N Moore St,2020-01-09,Arlington,Class II,United States,22209-1815,Gerber Products Company dba Nestle Infant Nutrition,2019-10-30,VA,Terminated,2020-06-18,71
+67579303b573cb028daaaac3,10813 Castolon Dr,2023-01-12,Dallas,Class II,United States,75228-2515,Hippos and Hashbrowns,2022-11-21,TX,Terminated,2024-04-30,52
+67579303b573cb028daaaac4,1500 Brooks Ave,2020-01-21,Rochester,Class II,United States,14624-3512,"Wegmans Food Markets, Inc.",2020-01-09,NY,Terminated,2020-02-27,12
+67579303b573cb028daaaac5,100 Purity Dr Ste 300,2023-03-15,Lebanon,Class II,United States,46052-8359,Catalina Snacks,2023-02-15,IN,Terminated,2023-06-30,28
+67579303b573cb028daaaac6,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaac7,700 Anderson Hill Rd,2023-02-14,Purchase,Class II,United States,10577-1401,Pepsico Inc,2023-01-28,NY,Terminated,2023-07-20,17
+67579303b573cb028daaaac8,1996 S Geiger Blvd,2020-09-28,Spokane,Class I,United States,99224-5411,"Spokane Produce, Inc.",2020-08-03,WA,Terminated,2020-10-08,56
+67579303b573cb028daaaac9,550 Bowie St,2020-11-24,Austin,Class I,United States,78703-4644,Whole Foods Market,2020-10-27,TX,Terminated,2020-12-04,28
+67579303b573cb028daaaaca,3911 Peachtree Dr,2023-12-15,Columbia,Class II,United States,65203-3700,"Shakespeare's Pizza, Inc.",2023-12-07,MO,Terminated,2024-05-02,8
+67579303b573cb028daaaacb,400 N Washington St,2022-03-22,Green Bay,Class II,United States,54301-5111,Schreiber Foods Inc,2022-03-08,WI,Terminated,2023-05-09,14
+67579303b573cb028daaaacc,1301 Waube Ln,2021-08-04,Green Bay,Class I,United States,54304-5655,"Eillien's Candies, Inc.",2021-07-02,WI,Terminated,2021-09-03,33
+67579303b573cb028daaaacd,72 Hook Rd,2023-12-15,Bayonne,Class I,United States,07002-5007,Kenover Marketing Corp.,2023-12-01,NJ,Terminated,2024-10-08,14
+67579303b573cb028daaaace,3820 Lakeside Ave E,2024-02-05,Cleveland,Class II,United States,44114-3848,Greco Sidari,2024-01-11,OH,Terminated,2024-09-05,25
+67579303b573cb028daaaacf,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaad0,1457 Nelson St,2021-07-01,Lakewood,Class I,United States,80215-4560,"Interstate Food Products, LLC",2021-05-20,CO,Terminated,2022-03-11,42
+67579303b573cb028daaaad1,1099 W Front St,2021-01-15,Boise,Class I,United States,83702-6924,JR Simplot Company - Headquarters,2020-12-18,ID,Terminated,2021-01-20,28
+67579303b573cb028daaaad2,16400 Trojan Way,2023-01-10,La Mirada,Class II,United States,90638-5630,DAISO CALIFORNIA WAREHOUSE,2022-12-29,CA,Terminated,2024-01-04,12
+67579303b573cb028daaaad5,1812 N Moore St,2020-01-09,Arlington,Class II,United States,22209-1815,Gerber Products Company dba Nestle Infant Nutrition,2019-10-30,VA,Terminated,2020-06-18,71
+67579303b573cb028daaaad6,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaad7,2800 Wegworth Ln,2023-10-17,Baltimore,Class I,United States,21230-3300,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",2023-02-03,MD,Terminated,2023-10-17,256
+67579303b573cb028daaaad9,2883 Surveyor St,2023-07-31,Pomona,Class I,United States,91768-3251,"Foremost Foods International, Inc.",2023-06-12,CA,Terminated,2023-10-20,49
+67579303b573cb028daaaada,2959 Salinas Hwy,2022-02-08,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2021-12-22,CA,Terminated,2022-03-22,48
+67579303b573cb028daaaadb,3158 E Hamilton Ave,2022-08-30,Fresno,Class I,United States,93702-4163,"Lyons Magnus, Inc",2022-07-22,CA,Terminated,2024-07-25,39
+67579303b573cb028daaaadc,2114 Main St,2024-08-02,Forest Grove,Class III,United States,97116-1661,Urban River Spirits,2024-07-01,OR,Terminated,2024-08-13,32
+67579303b573cb028daaaadd,176 Stanley Lake Dr,2020-09-04,Iron River,Class II,United States,49935-9359,"Lac O' Seasons Resort,Inc",2020-08-21,MI,Terminated,2020-10-16,14
+67579303b573cb028daaaade,4209 S Industrial Dr Ste 200,2020-08-07,Austin,Class I,United States,78744-1053,"Upspring,ltd",2020-07-23,TX,Terminated,2021-06-03,15
+67579303b573cb028daaaadf,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaaae0,2950 Grace Ln,2024-03-27,Costa Mesa,Class I,United States,92626-4169,"NRS Enterprises, Inc. dba Sunflour Bakery",2024-03-08,CA,Terminated,2024-08-21,19
+67579303b573cb028daaaae1,2902 Blankenbaker Rd,2020-03-06,Louisville,Class II,United States,40299-3841,Tova Industries Inc,2020-02-24,KY,Terminated,2021-04-12,11
+67579303b573cb028daaaae2,1703 N Randall Rd,2021-06-23,Elgin,Class II,United States,60123-7820,John B. Sanfilippo & Son Inc.,2021-05-28,IL,Terminated,2021-08-13,26
+67579303b573cb028daaaae3,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaaae4,229 Wartell Ave,2022-07-20,Opelousas,Class II,United States,70570-3349,Belmatt Inc Aka Targill Seasonings,2022-06-22,LA,Terminated,2022-07-21,28
+67579303b573cb028daaaae6,3005 County Line Rd,2024-02-22,Cullen,Class II,United States,23934-2041,"Country Corner Dairy, LLC",2024-02-01,VA,Terminated,2024-03-25,21
+67579303b573cb028daaaae7,1251 Argentine Blvd,2022-06-03,Kansas City,Class I,United States,66105-1508,Liberty Fruit Co Inc DBA Carol's Cuts,2022-05-06,KS,Terminated,2022-10-27,28
+67579303b573cb028daaaae8,3841 Ocean Ranch Blvd,2020-03-03,Oceanside,Class II,United States,92056-2694,Suja Life LLC,2020-02-13,CA,Terminated,2020-06-09,19
+67579303b573cb028daaaaea,19039 62nd Ave S,2023-03-24,Kent,Class II,United States,98032,Lemonland Food Corp,2023-02-23,WA,Terminated,2023-03-29,29
+67579303b573cb028daaaaeb,920 Avenue R Ste 100,2020-11-05,Grand Prairie,Class I,United States,75050-1528,Country Fresh Inc.,2020-10-01,TX,Terminated,2020-12-16,35
+67579303b573cb028daaaaec,77 N Hetrick Ave,2023-06-22,Palmyra,Class II,United States,17078-1501,ASK Foods Inc,2023-05-25,PA,Terminated,2023-11-07,28
+67579303b573cb028daaaaed,848 S 2000 W,2021-12-01,Syracuse,Class I,United States,84075,Onions 52,2021-10-21,UT,Terminated,2022-03-08,41
+67579303b573cb028daaaaee,6905 Rockledge Dr,2023-05-23,Bethesda,Class I,United States,20817-1828,Hms Host International Inc,2023-05-03,MD,Terminated,2023-05-25,20
+67579303b573cb028daaaaef,3125 Mercer Ave Ste 101,2023-08-04,Bellingham,Class II,United States,98225-8435,Bellingham Pasta Co,2023-07-03,WA,Terminated,2023-09-13,32
+67579303b573cb028daaaaf0,3820 Lakeside Ave E,2024-02-05,Cleveland,Class II,United States,44114-3848,Greco Sidari,2024-01-11,OH,Terminated,2024-09-05,25
+67579303b573cb028daaaaf1,14170 S Sr 29,2022-02-22,Felda,Class II,United States,33930,ARILLIS CORP,2022-01-21,FL,Terminated,2022-03-28,32
+67579303b573cb028daaaaf2,6239 Bandini Blvd,2020-04-16,Commerce,Class I,United States,90040-3113,Forest Mushroom Food Inc.,2020-03-11,CA,Terminated,2021-03-19,36
+67579303b573cb028daaaaf4,15443 S Latourette Rd,2021-07-14,Oregon City,Class II,United States,97045-9432,Bea Lydeckers Naturals Inc,2021-06-21,OR,Terminated,2022-02-24,23
+67579303b573cb028daaaaf5,2959 Salinas Hwy,2022-02-22,Monterey,Class I,United States,93940-6400,Dole Fresh Vegetables Inc,2022-01-06,CA,Terminated,2022-03-22,47
+67579303b573cb028daaaaf6,1812 N Moore St,2020-01-09,Arlington,Class II,United States,22209-1815,Gerber Products Company dba Nestle Infant Nutrition,2019-10-30,VA,Terminated,2020-06-18,71
+67579303b573cb028daaaaf7,14583 S Ave,2021-11-04,Woodward,Class II,United States,50276-6043,Picket Fence Creamery L.L.C.,2021-09-15,IA,Terminated,2021-11-18,50
+67579303b573cb028daaaaf8,2 Church Ave,2023-09-28,Brooklyn,Class I,United States,11218-3096,ICE CREAM HOUSE,2023-08-22,NY,Terminated,2024-06-14,37
+67579303b573cb028daaaaf9,201 S Hill Dr,2023-10-17,Brisbane,Class I,United States,94005-1204,"Sheng Kee of California, Inc dba Sheng Kee Bakery",2023-09-01,CA,Terminated,2024-03-12,46
+67579303b573cb028daaaafa,375 Erie Ave,2021-08-24,Morton,Class II,United States,61550-9607,RMH Foods,2021-08-11,IL,Terminated,2022-02-09,13
+67579303b573cb028daaaafb,5867 Churchman Ave,2023-01-17,Indianapolis,Class II,United States,46203-6012,Klosterman Baking Company,2022-12-18,IN,Terminated,2023-01-24,30
+67579303b573cb028daaaafc,267 Kappa Dr,2020-09-02,Pittsburgh,Class I,United States,15238-2817,Giant Eagle,2020-08-02,PA,Terminated,2021-05-12,31
+67579303b573cb028daaaafd,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaaafe,One North Clematis Street,2020-02-25,West Palm Beach,Class II,United States,33401,Domino Foods Inc,2020-02-13,FL,Terminated,2020-11-06,12
+67579303b573cb028daaaaff,1703 E Voorhees St,2024-02-27,Danville,Class II,United States,61834-6256,The Quaker Oats Co.,2023-12-15,IL,Terminated,2024-11-20,74
+67579303b573cb028daaab00,4465 State Route 103 S,2024-08-08,Willard,Class I,United States,44890-9220,Wiers Farm Inc,2024-07-11,OH,Terminated,2024-08-23,28
+67579303b573cb028daaab01,1109 E Lake St,2022-01-22,Streamwood,Class I,United States,60107-4332,Fresh Express Inc (Div of Chiquita Brands),2021-12-18,IL,Terminated,2023-05-17,35
+67579303b573cb028daaab02,3600 Shaw Blvd,2020-01-15,Naples,Class I,United States,34117-8408,Five Star Gourmet Foods of Florida,2019-12-27,FL,Terminated,2020-06-02,19
+67579303b573cb028daaab03,6085 Claude Way,2022-09-22,Inver Grove Heights,Class II,United States,55076-4432,"Russ Davis Wholesale, LLC",2022-07-29,MN,Terminated,2022-09-23,55
