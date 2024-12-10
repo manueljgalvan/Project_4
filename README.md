@@ -2,7 +2,7 @@
 
 ### Questions we are wanting to answer
 
-- Based on the classification of the Recall, the selected model should predict the duration between the Center Classification Date vs Termination Date; basically predicting how long a recall is outstanding
+- Based on the Process for classification of Recalls, the selected model should predict the duration between the Center Classification Date vs Recall Initiation Date; basically predicting how long a recall is outstanding
 
 ### Authors
 - Manuel Galvan
