@@ -2,6 +2,8 @@
 
 ### This project is looking that a live dataset from the FDA Recall catalog and conducted analysis on the Process for classification of Recalls, the selected model should predict the duration between the Center Classification Date vs Recall Initiation Date; basically predicting how long a recall is outstanding
 
+### Tableau Public: https://public.tableau.com/shared/Y8NP6BR6Y?:display_count=n&:origin=viz_share_link
+
 ### Team 3 Members
 - Manuel Galvan
 - Natalia Galvan
